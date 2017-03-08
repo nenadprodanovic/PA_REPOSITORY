@@ -1,0 +1,76 @@
+
+CALIBRATION: calibration_main
+Start time: 19.12.2016 12-38-00
+End time: 19.12.2016 12-38-11
+Image quality on start: 0.876811623573303
+Image quality minimum value: 0
+Image quality mean value: 0.176846569776535
+Head movement maximum value: 408.182557197144
+Head movement mean value: 40.8182557197144
+Head size ratio maximum value: Infinity
+Head size ratio mean value: Infinity
+Calibration reprojection error mean value: 999999
+Calibration reprojection error outliers count: 999999
+Error: 
+Sorry, but we have lost your eyes. This is probably due to excessive head movements. Please try to recalibrate again and give your best to keep your head still.
+
+CALIBRATION: calibration_main
+Start time: 19.12.2016 12-38-43
+End time: 19.12.2016 12-38-50
+Image quality on start: 0.819444417953491
+Image quality minimum value: 0
+Image quality mean value: 0.30744395611134
+Head movement maximum value: 1.4142135623731
+Head movement mean value: 0.541613704738632
+Head size ratio maximum value: 0.0330556302069336
+Head size ratio mean value: 0.62968087965372
+Calibration reprojection error mean value: 999999
+Calibration reprojection error outliers count: 999999
+Error: 
+Your face is not detected properly! Please try to set your position again and repeat calibration.
+
+CALIBRATION: calibration_main
+Start time: 19.12.2016 12-42-54
+End time: 19.12.2016 12-43-00
+Image quality on start: 0.416666656732559
+Image quality minimum value: 0
+Image quality mean value: 0.255555559694767
+Head movement maximum value: 396.25496842311
+Head movement mean value: 39.625496842311
+Head size ratio maximum value: Infinity
+Head size ratio mean value: Infinity
+Calibration reprojection error mean value: 999999
+Calibration reprojection error outliers count: 999999
+Error: 
+Sorry, but we have lost your eyes. This is probably due to excessive head movements. Please try to recalibrate again and give your best to keep your head still.
+
+CALIBRATION: calibration_main
+Start time: 19.12.2016 12-44-22
+End time: 19.12.2016 12-44-39
+Image quality on start: 0.506944417953491
+Image quality minimum value: 0
+Image quality mean value: 0.436019474933595
+Head movement maximum value: 5.09901951359278
+Head movement mean value: 2.90283863486072
+Head size ratio maximum value: 0.0897626390640413
+Head size ratio mean value: 0.0812924935729816
+Calibration reprojection error mean value: 999999
+Calibration reprojection error outliers count: 999999
+Error: 
+Your face is not detected properly! Please try to set your position again and repeat calibration.
+
+CALIBRATION: calibration_main
+Start time: 19.12.2016 12-47-10
+End time: 19.12.2016 12-47-37
+Image quality on start: 0.444444388151169
+Image quality minimum value: 0
+Image quality mean value: 0.349911498891957
+Head movement maximum value: 4.12310562561766
+Head movement mean value: 2.76543891928151
+Head size ratio maximum value: 0.111029948867787
+Head size ratio mean value: 0.0999100688029046
+Calibration reprojection error mean value: 999999
+Calibration reprojection error outliers count: 999999
+Error: 
+Bad Face Size!
+Your face in the camera image is too big or too small. Please set your position again and repeat calibration.

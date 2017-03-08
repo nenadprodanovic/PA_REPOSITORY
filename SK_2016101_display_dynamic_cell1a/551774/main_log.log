@@ -1,0 +1,56 @@
+
+CALIBRATION: calibration_main
+Start time: 19.12.2016 13-28-38
+End time: 19.12.2016 13-29-09
+Image quality on start: 0.795275568962097
+Image quality minimum value: 0.755905508995056
+Image quality mean value: 0.775906081999274
+Head movement maximum value: 14.3178210632764
+Head movement mean value: 8.50089049908144
+Head size ratio maximum value: 0.127731224058266
+Head size ratio mean value: 0.062680462923702
+Calibration reprojection error mean value: 49.4999435212877
+Calibration reprojection error outliers count: 0
+Error: no error
+
+TEST CALIBRATION: testcalibration_main
+Start time: 19.12.2016 13-29-13
+End time: 19.12.2016 13-29-29
+Image quality minimum value: 0.755905508995056
+Image quality mean value: 0.772113859836872
+Head movement maximum value: 15.2315462117278
+Head movement mean value: 12.534464096559
+Head size ratio maximum value: 0.0720494948703891
+Head size ratio mean value: 0.0568868112074311
+Calibration maximum distance: 266.672083278321
+Calibration corrected maximum distance: 85.375640553966
+Calibration without correction was successful: True
+Calibration with correction was successful: True
+Error: no error
+
+VIDEOTASK: 1
+Start time: 19.12.2016 13-29-33
+End time: 19.12.2016 13-31-35
+Image quality minimum value: 0
+Image quality mean value: 0.752957284701674
+Head movement maximum value: 26.6833281282527
+Head movement mean value: 15.8754066371202
+Head size ratio maximum value: 0.0812318897329469
+Head size ratio mean value: 0.0366891022059217
+Error: 
+Your face is not detected properly! Please try to set your position again and repeat calibration.
+
+CALIBRATION: calibration_main
+Start time: 19.12.2016 13-32-09
+End time: 19.12.2016 13-32-22
+Image quality on start: 0.763779520988464
+Image quality minimum value: 0
+Image quality mean value: 0.618801862806887
+Head movement maximum value: 31.2409987036266
+Head movement mean value: 15.6935914698578
+Head size ratio maximum value: 0.130588046787374
+Head size ratio mean value: 0.130187951130108
+Calibration reprojection error mean value: 999999
+Calibration reprojection error outliers count: 999999
+Error: 
+Your face is not detected properly! Please try to set your position again and repeat calibration.
