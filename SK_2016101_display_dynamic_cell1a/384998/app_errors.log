@@ -1,3 +1,0 @@
-20.12.2016 16:41:04  Cleanup failed! One or more errors occurred.   at PromoTester.InfoMediaDialog.processElement(XmlElement element)
-   at PromoTester.InfoMediaDialog.nextButton_Click(Object sender, EventArgs e)
-20.12.2016 16:41:07 Info: Test interupted, please try again!
