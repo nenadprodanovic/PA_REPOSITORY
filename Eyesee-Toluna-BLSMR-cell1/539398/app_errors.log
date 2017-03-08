@@ -1,0 +1,9 @@
+16.01.2015 17:03:16  Attempted to read or write protected memory. This is often an indication that other memory is corrupt.   at System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(Int32 dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.RunDialog(Form form)
+   at System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   at PromoTester.InfoMediaDialog.processElement(XmlElement element)
+   at PromoTester.InfoMediaDialog.nextButton_Click(Object sender, EventArgs e)
+16.01.2015 17:03:30 Info: Test interupted, please try again!

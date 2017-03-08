@@ -1,0 +1,86 @@
+
+CALIBRATION: calibration_main
+Start time: 22.01.2015 13-36-14
+End time: 22.01.2015 13-36-37
+Image quality on start: 0.716535449028015
+Image quality minimum value: 0
+Image quality mean value: 0.681535921777998
+Head movement maximum value: 12.2065556157337
+Head movement mean value: 6.1753602824719
+Head size ratio maximum value: 0.416774574243144
+Head size ratio mean value: 0.242703769701426
+Calibration reprojection error mean value: 999999
+Calibration reprojection error outliers count: 999999
+Error: 
+Sorry, but we have lost your eyes. This is probably due to excessive head movements. Please try to recalibrate again and give your best to keep your head still.
+
+CALIBRATION: calibration_main
+Start time: 22.01.2015 13-36-51
+End time: 22.01.2015 13-37-09
+Image quality on start: 0.724409461021423
+Image quality minimum value: 0
+Image quality mean value: 0.45309814331787
+Head movement maximum value: 5
+Head movement mean value: 2.75698663484012
+Head size ratio maximum value: 0.141566308606457
+Head size ratio mean value: 0.136696378228893
+Calibration reprojection error mean value: 999999
+Calibration reprojection error outliers count: 999999
+Error: 
+Your face is not detected properly! Please try to set your position again and repeat calibration.
+
+CALIBRATION: calibration_main
+Start time: 22.01.2015 13-37-18
+End time: 22.01.2015 13-37-53
+Image quality on start: 0.673611164093018
+Image quality minimum value: 0
+Image quality mean value: 0.700753136633253
+Head movement maximum value: 8.54400374531753
+Head movement mean value: 4.11847797778927
+Head size ratio maximum value: 0.222975778546713
+Head size ratio mean value: 0.121094374720056
+Calibration reprojection error mean value: 272.384401745266
+Calibration reprojection error outliers count: 2
+Error: no error
+
+TEST CALIBRATION: testcalibration_main
+Start time: 22.01.2015 13-37-57
+End time: 22.01.2015 13-38-14
+Image quality minimum value: 0
+Image quality mean value: 0.649277643153542
+Head movement maximum value: 9.4339811320566
+Head movement mean value: 6.4572015140861
+Head size ratio maximum value: 0.104559784698193
+Head size ratio mean value: 0.140611020053016
+Calibration maximum distance: 669.443052096293
+Calibration corrected maximum distance: 363.929938312308
+Calibration without correction was successful: False
+Calibration with correction was successful: True
+Error: no error
+
+VIDEOTASK: v
+Start time: 22.01.2015 13-38-26
+End time: 22.01.2015 13-38-32
+Image quality minimum value: 0
+Image quality mean value: 0.290785710016886
+Head movement maximum value: 383.407094352726
+Head movement mean value: 42.600788261414
+Head size ratio maximum value: 0
+Head size ratio mean value: 1
+Error: 
+Sorry, but we have lost your eyes. This is probably due to excessive head movements. Please try to recalibrate again and give your best to keep your head still.
+
+CALIBRATION: calibration_main
+Start time: 22.01.2015 13-38-42
+End time: 22.01.2015 13-38-58
+Image quality on start: 0.755905508995056
+Image quality minimum value: 0
+Image quality mean value: 0.50639778137207
+Head movement maximum value: 72.8628849277875
+Head movement mean value: 8.64080099896249
+Head size ratio maximum value: 0.371796982167353
+Head size ratio mean value: 0.266824142661179
+Calibration reprojection error mean value: 999999
+Calibration reprojection error outliers count: 999999
+Error: 
+Sorry, but we have lost your eyes. This is probably due to excessive head movements. Please try to recalibrate again and give your best to keep your head still.
