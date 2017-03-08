@@ -1,0 +1,50 @@
+
+
+***************
+Logging from: TestCalibrationMediaDialog testcalibration_main
+Time: Fri Jan 16 16:28:15 2015
+
+H(0,0) = 3.36816
+H(0,1) = -1.23686
+H(0,2) = -1213.2
+H(1,0) = 0.806571
+H(1,1) = 0.23836
+H(1,2) = -385.945
+H(2,0) = 0.00170088
+H(2,1) = -0.00233835
+H(2,2) = 1
+---------------
+
+
+
+***************
+Logging from: VideoMediaDialog v - start
+Time: Fri Jan 16 16:28:23 2015
+
+H(0,0) = 3.36816
+H(0,1) = -1.23686
+H(0,2) = -1213.2
+H(1,0) = 0.806571
+H(1,1) = 0.23836
+H(1,2) = -385.945
+H(2,0) = 0.00170088
+H(2,1) = -0.00233835
+H(2,2) = 1
+---------------
+
+
+
+***************
+Logging from: VideoMediaDialog v - start
+Time: Fri Jan 16 16:30:06 2015
+
+---------------
+
+
+
+***************
+Logging from: VideoMediaDialog v - stop
+Time: Fri Jan 16 16:33:48 2015
+
+---------------
+
