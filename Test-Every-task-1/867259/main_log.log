@@ -1,0 +1,62 @@
+
+CALIBRATION: calibration_main
+Start time: 06.09.2016 17-12-43
+End time: 06.09.2016 17-13-11
+Image quality on start: 0.677165329456329
+Image quality minimum value: 0
+Image quality mean value: 0.663568100191298
+Head movement maximum value: 412.167441703005
+Head movement mean value: 4.92306051355414
+Head size ratio maximum value: 0.163383612059267
+Head size ratio mean value: 0.108916051689835
+Calibration reprojection error mean value: 999999
+Calibration reprojection error outliers count: 999999
+Error: 
+Sorry, but we have lost your eyes. This is probably due to excessive head movements. Please try to recalibrate again and give your best to keep your head still.
+
+CALIBRATION: calibration_main
+Start time: 06.09.2016 17-13-32
+End time: 06.09.2016 17-13-42
+Image quality on start: 0.684523820877075
+Image quality minimum value: 0.688622772693634
+Image quality mean value: 0.697689124196768
+Head movement maximum value: 419.954759468208
+Head movement mean value: 8.38133447924766
+Head size ratio maximum value: 0.0872963693476514
+Head size ratio mean value: 0.184876999780846
+Calibration reprojection error mean value: 999999
+Calibration reprojection error outliers count: 999999
+Error: 
+Sorry, but we have lost your eyes. This is probably due to excessive head movements. Please try to recalibrate again and give your best to keep your head still.
+
+CALIBRATION: calibration_main
+Start time: 06.09.2016 17-14-06
+End time: 06.09.2016 17-14-21
+Image quality on start: 0.645669281482697
+Image quality minimum value: 1000
+Image quality mean value: 0
+Head movement maximum value: 0
+Head movement mean value: 0
+Head size ratio maximum value: 0
+Head size ratio mean value: 0
+Calibration reprojection error mean value: 999999
+Calibration reprojection error outliers count: 999999
+Error: 
+Bad Face Size!
+Your face in the camera image is too big or too small. Please set your position again and repeat calibration.
+
+CALIBRATION: calibration_main
+Start time: 06.09.2016 17-14-37
+End time: 06.09.2016 17-14-42
+Image quality on start: 0.656050980091095
+Image quality minimum value: 1000
+Image quality mean value: 0
+Head movement maximum value: 0
+Head movement mean value: 0
+Head size ratio maximum value: 0
+Head size ratio mean value: 0
+Calibration reprojection error mean value: 999999
+Calibration reprojection error outliers count: 999999
+Error: 
+Initialization Error!
+Please contact us on support@eyesee.be and inform us about this error.
