@@ -1,0 +1,56 @@
+
+CALIBRATION: calibration_main
+Start time: 20.12.2016 00-37-52
+End time: 20.12.2016 00-37-59
+Image quality on start: 0.569444477558136
+Image quality minimum value: 1000
+Image quality mean value: 0
+Head movement maximum value: 0
+Head movement mean value: 0
+Head size ratio maximum value: 0
+Head size ratio mean value: 0
+Calibration reprojection error mean value: 999999
+Calibration reprojection error outliers count: 999999
+Error: 
+Face not Centered!
+Your face is not positioned centrally in the camera image. Please set your position again and repeat calibration.
+
+CALIBRATION: calibration_main
+Start time: 20.12.2016 00-38-18
+End time: 20.12.2016 00-38-51
+Image quality on start: 0.541666746139526
+Image quality minimum value: 0.465277820825577
+Image quality mean value: 0.523480922821909
+Head movement maximum value: 4.47213595499958
+Head movement mean value: 1.85670392611472
+Head size ratio maximum value: 0.0507852482914776
+Head size ratio mean value: 0.0448992462857085
+Calibration reprojection error mean value: 288.525284661187
+Calibration reprojection error outliers count: 3
+Error: no error
+
+TEST CALIBRATION: testcalibration_main
+Start time: 20.12.2016 00-38-54
+End time: 20.12.2016 00-39-11
+Image quality minimum value: 0.479166686534882
+Image quality mean value: 0.530113107862726
+Head movement maximum value: 4.47213595499958
+Head movement mean value: 2.57672736220524
+Head size ratio maximum value: 0.0324128162446624
+Head size ratio mean value: 0.0852642208823794
+Calibration maximum distance: 561.178224809196
+Calibration corrected maximum distance: 281.51909349101
+Calibration without correction was successful: False
+Calibration with correction was successful: True
+Error: no error
+
+VIDEOTASK: 1
+Start time: 20.12.2016 00-39-21
+End time: 20.12.2016 00-40-52
+Image quality minimum value: 0.416666656732559
+Image quality mean value: 0.557548660114944
+Head movement maximum value: 31.3049516849971
+Head movement mean value: 18.338177453888
+Head size ratio maximum value: 0.251858438188191
+Head size ratio mean value: 0.0697699137450826
+Error: no error

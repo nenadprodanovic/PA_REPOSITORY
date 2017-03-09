@@ -1,0 +1,72 @@
+
+CALIBRATION: calibration_main
+Start time: 19.12.2016 17-18-18
+End time: 19.12.2016 17-18-51
+Image quality on start: 0.50000011920929
+Image quality minimum value: 0
+Image quality mean value: 0.646549668842859
+Head movement maximum value: 63.8905313798532
+Head movement mean value: 58.0519538558802
+Head size ratio maximum value: 0.308838976226323
+Head size ratio mean value: 0.290037624681914
+Calibration reprojection error mean value: 114.56576707628
+Calibration reprojection error outliers count: 0
+Error: no error
+
+TEST CALIBRATION: testcalibration_main
+Start time: 19.12.2016 17-18-55
+End time: 19.12.2016 17-19-11
+Image quality minimum value: 0
+Image quality mean value: 0.346136663036962
+Head movement maximum value: 84.0238061504
+Head movement mean value: 73.1096430888447
+Head size ratio maximum value: 0.284023668639053
+Head size ratio mean value: 0.282435556720138
+Calibration maximum distance: 543.646944257024
+Calibration corrected maximum distance: 306.789830339925
+Calibration without correction was successful: False
+Calibration with correction was successful: True
+Error: no error
+
+VIDEOTASK: 1
+Start time: 19.12.2016 17-19-15
+End time: 19.12.2016 17-19-27
+Image quality minimum value: 0
+Image quality mean value: 0
+Head movement maximum value: 0
+Head movement mean value: 0
+Head size ratio maximum value: 0
+Head size ratio mean value: 1
+Error: 
+Your face is not detected properly! Please try to set your position again and repeat calibration.
+
+CALIBRATION: calibration_main
+Start time: 19.12.2016 17-19-40
+End time: 19.12.2016 17-19-47
+Image quality on start: 0.527777850627899
+Image quality minimum value: 1000
+Image quality mean value: 0
+Head movement maximum value: 0
+Head movement mean value: 0
+Head size ratio maximum value: 0
+Head size ratio mean value: 0
+Calibration reprojection error mean value: 999999
+Calibration reprojection error outliers count: 999999
+Error: 
+Bad Face Size!
+Your face in the camera image is too big or too small. Please set your position again and repeat calibration.
+
+CALIBRATION: calibration_main
+Start time: 19.12.2016 17-20-02
+End time: 19.12.2016 17-20-25
+Image quality on start: 0.680555462837219
+Image quality minimum value: 0
+Image quality mean value: 0.493363970046421
+Head movement maximum value: 42.0119030752
+Head movement mean value: 23.5167047935166
+Head size ratio maximum value: 0.238283679122619
+Head size ratio mean value: 0.214238536244327
+Calibration reprojection error mean value: 999999
+Calibration reprojection error outliers count: 999999
+Error: 
+Your face is not detected properly! Please try to set your position again and repeat calibration.

@@ -1,0 +1,83 @@
+
+CALIBRATION: calibration_main
+Start time: 19.12.2016 21-22-08
+End time: 19.12.2016 21-22-40
+Image quality on start: 0.669291317462921
+Image quality minimum value: 0.677165329456329
+Image quality mean value: 0.736641145324054
+Head movement maximum value: 13.4164078649987
+Head movement mean value: 4.18516713641953
+Head size ratio maximum value: 0.0933318518753671
+Head size ratio mean value: 0.0494212638068586
+Calibration reprojection error mean value: 68.6688237720066
+Calibration reprojection error outliers count: 0
+Error: no error
+
+TEST CALIBRATION: testcalibration_main
+Start time: 19.12.2016 21-22-44
+End time: 19.12.2016 21-23-00
+Image quality minimum value: 0.622047245502472
+Image quality mean value: 0.702388339764844
+Head movement maximum value: 22.8035085019828
+Head movement mean value: 13.5181311219503
+Head size ratio maximum value: 0.130870938556531
+Head size ratio mean value: 0.106341656567264
+Calibration maximum distance: 411.166632887446
+Calibration corrected maximum distance: 65.7951365983839
+Calibration without correction was successful: False
+Calibration with correction was successful: True
+Error: no error
+
+VIDEOTASK: 1
+Start time: 19.12.2016 21-23-05
+End time: 19.12.2016 21-24-03
+Image quality minimum value: 0.433070868253708
+Image quality mean value: 0.567005660605732
+Head movement maximum value: 42.3792402008342
+Head movement mean value: 10.6600906747184
+Head size ratio maximum value: 0.402612656941953
+Head size ratio mean value: 0.161098265072968
+Error: 
+Sorry, but we have lost your eyes. This is probably due to excessive head movements. Please try to recalibrate again and give your best to keep your head still.
+
+CALIBRATION: calibration_main
+Start time: 19.12.2016 21-24-39
+End time: 19.12.2016 21-25-10
+Image quality on start: 0.685039341449738
+Image quality minimum value: 0.700787425041199
+Image quality mean value: 0.722850250725699
+Head movement maximum value: 6.32455532033676
+Head movement mean value: 3.29953025185037
+Head size ratio maximum value: 0.0857956294244383
+Head size ratio mean value: 0.0368989439629552
+Calibration reprojection error mean value: 73.2918864356147
+Calibration reprojection error outliers count: 0
+Error: no error
+
+TEST CALIBRATION: testcalibration_main
+Start time: 19.12.2016 21-25-12
+End time: 19.12.2016 21-25-27
+Image quality minimum value: 0.685039341449738
+Image quality mean value: 0.725699849950031
+Head movement maximum value: 15.6524758424985
+Head movement mean value: 9.004256740518
+Head size ratio maximum value: 0.164127423822715
+Head size ratio mean value: 0.0861597110919647
+Calibration maximum distance: 952.302472956991
+Calibration corrected maximum distance: 423.362728638221
+Calibration without correction was successful: False
+Calibration with correction was successful: False
+Error: 
+Calibration not accurate enough. 
+We need some further fine tuning of the calibration, it doesn't always get right from the first time. Please try again, give your best to keep your head still and focus at the red dot.
+
+VIDEOTASK: 1
+Start time: 19.12.2016 21-25-30
+End time: 19.12.2016 21-26-56
+Image quality minimum value: 1000
+Image quality mean value: 0
+Head movement maximum value: 0
+Head movement mean value: 0
+Head size ratio maximum value: 0
+Head size ratio mean value: 0
+Error: no error

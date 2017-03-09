@@ -1,0 +1,87 @@
+
+CALIBRATION: calibration_main
+Start time: 17.12.2016 17-52-23
+End time: 17.12.2016 17-52-58
+Image quality on start: 0.84027773141861
+Image quality minimum value: 0
+Image quality mean value: 0.781039685188305
+Head movement maximum value: 51.4198405287298
+Head movement mean value: 18.7189056985948
+Head size ratio maximum value: 0.193329903978052
+Head size ratio mean value: 0.0761156121399178
+Calibration reprojection error mean value: 432.086480882433
+Calibration reprojection error outliers count: 5
+Error: no error
+
+TEST CALIBRATION: testcalibration_main
+Start time: 17.12.2016 17-53-08
+End time: 17.12.2016 17-53-28
+Image quality minimum value: 0.694444477558136
+Image quality mean value: 0.799442078822698
+Head movement maximum value: 24.6981780704569
+Head movement mean value: 11.6707992687919
+Head size ratio maximum value: 0.116748113854595
+Head size ratio mean value: 0.129849460096374
+Calibration maximum distance: 1157.47699761162
+Calibration corrected maximum distance: 1038.0814033591
+Calibration without correction was successful: False
+Calibration with correction was successful: False
+Error: 
+Calibration not accurate enough. 
+We need some further fine tuning of the calibration, it doesn't always get right from the first time. Please try again, give your best to keep your head still and focus at the red dot.
+
+CALIBRATION: calibration_main
+Start time: 17.12.2016 17-54-10
+End time: 17.12.2016 17-54-22
+Image quality on start: 0.833333313465118
+Image quality minimum value: 1000
+Image quality mean value: 0
+Head movement maximum value: 0
+Head movement mean value: 0
+Head size ratio maximum value: 0
+Head size ratio mean value: 0
+Calibration reprojection error mean value: 999999
+Calibration reprojection error outliers count: 999999
+Error: 
+Bad Face Size!
+Your face in the camera image is too big or too small. Please set your position again and repeat calibration.
+
+CALIBRATION: calibration_main
+Start time: 17.12.2016 17-54-49
+End time: 17.12.2016 17-55-23
+Image quality on start: 0.909090936183929
+Image quality minimum value: 0.871874988079071
+Image quality mean value: 0.89020452027051
+Head movement maximum value: 19.8494332412792
+Head movement mean value: 13.2570849978501
+Head size ratio maximum value: 0.0650228809507547
+Head size ratio mean value: 0.0568677002936959
+Calibration reprojection error mean value: 135.422998640272
+Calibration reprojection error outliers count: 1
+Error: no error
+
+TEST CALIBRATION: testcalibration_main
+Start time: 17.12.2016 17-55-25
+End time: 17.12.2016 17-55-42
+Image quality minimum value: 0.850000023841858
+Image quality mean value: 0.875597941403342
+Head movement maximum value: 20.2484567313166
+Head movement mean value: 15.9322723222402
+Head size ratio maximum value: 0.0333310566218155
+Head size ratio mean value: 0.0919900780461215
+Calibration maximum distance: 597.428656828579
+Calibration corrected maximum distance: 293.286549299486
+Calibration without correction was successful: False
+Calibration with correction was successful: True
+Error: no error
+
+VIDEOTASK: 1
+Start time: 17.12.2016 17-55-46
+End time: 17.12.2016 17-57-17
+Image quality minimum value: 0.330708652734756
+Image quality mean value: 0.628871756752855
+Head movement maximum value: 63.4113554499508
+Head movement mean value: 51.8964524221425
+Head size ratio maximum value: 0.208182501195274
+Head size ratio mean value: 0.150974114239393
+Error: no error

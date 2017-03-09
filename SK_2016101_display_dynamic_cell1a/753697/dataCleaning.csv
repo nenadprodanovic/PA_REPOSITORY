@@ -1,0 +1,3 @@
+Stimulus;;Usable;;Enough_Points;Good_InRatio;Good_Deviation;Good_Dev_Median;Good_Halves;;Points_No;InRatio;Dev_X;Dev_Y;Dev_X_Med;Dev_Y_Med;leftHalf;rightHalf;upHalf;downHalf;;duration
+sequence-A-converted;;1;;1;1;1;1;1;;511;0.98;411.91;149.23;415.92;149.84;0.26;0.74;0.28;0.72;;85
+sequence-A-converted_corrected;;1;;1;1;1;1;1;;511;0.85;521.94;446.73;545.66;453.72;0.25;0.75;0.41;0.59;;85
