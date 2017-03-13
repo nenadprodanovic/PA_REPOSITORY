@@ -1,0 +1,56 @@
+
+CALIBRATION: calibration_main
+Start time: 07.12.2016 10-00-51
+End time: 07.12.2016 10-01-19
+Image quality on start: 0.541666746139526
+Image quality minimum value: 0
+Image quality mean value: 0.598256849424512
+Head movement maximum value: 426.160767786055
+Head movement mean value: 24.762577156719
+Head size ratio maximum value: 0.14792899408284
+Head size ratio mean value: 0.0757663587129242
+Calibration reprojection error mean value: 999999
+Calibration reprojection error outliers count: 999999
+Error: 
+Sorry, but we have lost your eyes. This is probably due to excessive head movements. Please try to recalibrate again and give your best to keep your head still.
+
+CALIBRATION: calibration_main
+Start time: 07.12.2016 10-01-46
+End time: 07.12.2016 10-02-16
+Image quality on start: 0.493055552244186
+Image quality minimum value: 0.437500059604645
+Image quality mean value: 0.551128831696816
+Head movement maximum value: 39.9624824053762
+Head movement mean value: 21.1550151741009
+Head size ratio maximum value: 0.136053583168968
+Head size ratio mean value: 0.0569878933183297
+Calibration reprojection error mean value: 47.8979922400581
+Calibration reprojection error outliers count: 0
+Error: no error
+
+TEST CALIBRATION: testcalibration_main
+Start time: 07.12.2016 10-02-21
+End time: 07.12.2016 10-02-37
+Image quality minimum value: 0
+Image quality mean value: 0.532359748250908
+Head movement maximum value: 51.9711458407451
+Head movement mean value: 44.1802170594213
+Head size ratio maximum value: 0.206073307034845
+Head size ratio mean value: 0.15161801617631
+Calibration maximum distance: 214.671842587704
+Calibration corrected maximum distance: 102.200782775867
+Calibration without correction was successful: True
+Calibration with correction was successful: True
+Error: no error
+
+CLICKTASK: c1
+Start time: 07.12.2016 10-02-42
+End time: 07.12.2016 10-02-49
+Image quality minimum value: 0
+Image quality mean value: 0.0892620881398519
+Head movement maximum value: 0
+Head movement mean value: 0
+Head size ratio maximum value: 0
+Head size ratio mean value: 1
+Error: 
+Your face is not detected properly! Please try to set your position again and repeat calibration.
