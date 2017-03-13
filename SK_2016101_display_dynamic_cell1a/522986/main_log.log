@@ -1,0 +1,140 @@
+
+CALIBRATION: calibration_main
+Start time: 19.12.2016 15-07-57
+End time: 19.12.2016 15-08-38
+Image quality on start: 0.861111044883728
+Image quality minimum value: 0.736111164093018
+Image quality mean value: 0.834306831099093
+Head movement maximum value: 13.3416640641263
+Head movement mean value: 7.18515123499466
+Head size ratio maximum value: 0.0682905740820798
+Head size ratio mean value: 0.0552613165426872
+Calibration reprojection error mean value: 100.093882666694
+Calibration reprojection error outliers count: 0
+Error: no error
+
+TEST CALIBRATION: testcalibration_main
+Start time: 19.12.2016 15-08-40
+End time: 19.12.2016 15-08-56
+Image quality minimum value: 0.770833253860474
+Image quality mean value: 0.842263428573934
+Head movement maximum value: 13.9283882771841
+Head movement mean value: 11.7998445957486
+Head size ratio maximum value: 0.126965906888687
+Head size ratio mean value: 0.126814539941953
+Calibration maximum distance: 352.23003846918
+Calibration corrected maximum distance: 112.609946274741
+Calibration without correction was successful: False
+Calibration with correction was successful: True
+Error: no error
+
+VIDEOTASK: 1
+Start time: 19.12.2016 15-08-59
+End time: 19.12.2016 15-09-05
+Image quality minimum value: 0.440944880247116
+Image quality mean value: 0.549486011266708
+Head movement maximum value: 0
+Head movement mean value: 0
+Head size ratio maximum value: 0
+Head size ratio mean value: 1
+Error: 
+Bad camera resolution or camera video not loaded!
+Please check if your web camera is working properly and set your web camera resolution to 640x480.
+
+You can test your camera by selecting Options > Test Webcam in the menu bar.
+
+If your camera is not working, check if it is plugged in properly and close other applications that might be using it. If this does not solve this issue, please reset your computer or reinstall the camera driver.
+
+CALIBRATION: calibration_main
+Start time: 19.12.2016 15-09-38
+End time: 19.12.2016 15-10-11
+Image quality on start: 0.777777791023254
+Image quality minimum value: 0.701388895511627
+Image quality mean value: 0.77826903602318
+Head movement maximum value: 18.3575597506858
+Head movement mean value: 11.6711091397056
+Head size ratio maximum value: 0.104141235351563
+Head size ratio mean value: 0.0739847164828678
+Calibration reprojection error mean value: 74.6578901078966
+Calibration reprojection error outliers count: 0
+Error: no error
+
+TEST CALIBRATION: testcalibration_main
+Start time: 19.12.2016 15-10-13
+End time: 19.12.2016 15-10-29
+Image quality minimum value: 0.715277791023254
+Image quality mean value: 0.792349745015629
+Head movement maximum value: 25.9422435421457
+Head movement mean value: 21.3925119397714
+Head size ratio maximum value: 0.12890625
+Head size ratio mean value: 0.149996397925205
+Calibration maximum distance: 264.140114333283
+Calibration corrected maximum distance: 160.654909666652
+Calibration without correction was successful: True
+Calibration with correction was successful: True
+Error: no error
+
+VIDEOTASK: 1
+Start time: 19.12.2016 15-10-30
+End time: 19.12.2016 15-10-37
+Image quality minimum value: 0.805555522441864
+Image quality mean value: 0.805555522441864
+Head movement maximum value: 0
+Head movement mean value: 0
+Head size ratio maximum value: 0
+Head size ratio mean value: 1
+Error: 
+Bad camera resolution or camera video not loaded!
+Please check if your web camera is working properly and set your web camera resolution to 640x480.
+
+You can test your camera by selecting Options > Test Webcam in the menu bar.
+
+If your camera is not working, check if it is plugged in properly and close other applications that might be using it. If this does not solve this issue, please reset your computer or reinstall the camera driver.
+Object reference not set to an instance of an object.
+
+CALIBRATION: calibration_main
+Start time: 19.12.2016 15-10-56
+End time: 19.12.2016 15-11-34
+Image quality on start: 0.858267724514008
+Image quality minimum value: 0.854166686534882
+Image quality mean value: 0.888331261947173
+Head movement maximum value: 13.1529464379659
+Head movement mean value: 8.07874213963669
+Head size ratio maximum value: 0.0506249999999999
+Head size ratio mean value: 0.0523973137381568
+Calibration reprojection error mean value: 111.504325866699
+Calibration reprojection error outliers count: 0
+Error: no error
+
+TEST CALIBRATION: testcalibration_main
+Start time: 19.12.2016 15-11-35
+End time: 19.12.2016 15-11-52
+Image quality minimum value: 0.854166686534882
+Image quality mean value: 0.884753752013911
+Head movement maximum value: 21.8403296678416
+Head movement mean value: 16.5842677071872
+Head size ratio maximum value: 0.033611111111111
+Head size ratio mean value: 0.103495999396135
+Calibration maximum distance: 512.762128086699
+Calibration corrected maximum distance: 60.00833275471
+Calibration without correction was successful: False
+Calibration with correction was successful: True
+Error: no error
+
+VIDEOTASK: 1
+Start time: 19.12.2016 15-11-53
+End time: 19.12.2016 15-12-06
+Image quality minimum value: 0.448818892240524
+Image quality mean value: 0.713035858339734
+Head movement maximum value: 22.3606797749979
+Head movement mean value: 12.4225998749988
+Head size ratio maximum value: 0.00831597222222225
+Head size ratio mean value: 0.449064429012346
+Error: 
+Bad camera resolution or camera video not loaded!
+Please check if your web camera is working properly and set your web camera resolution to 640x480.
+
+You can test your camera by selecting Options > Test Webcam in the menu bar.
+
+If your camera is not working, check if it is plugged in properly and close other applications that might be using it. If this does not solve this issue, please reset your computer or reinstall the camera driver.
+Object reference not set to an instance of an object.

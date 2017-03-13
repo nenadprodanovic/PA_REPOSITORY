@@ -1,0 +1,40 @@
+
+CALIBRATION: calibration_main
+Start time: 19.12.2016 13-33-50
+End time: 19.12.2016 13-34-22
+Image quality on start: 0.409448832273483
+Image quality minimum value: 0.4251968562603
+Image quality mean value: 0.437561673047902
+Head movement maximum value: 20.6155281280883
+Head movement mean value: 9.10486612805766
+Head size ratio maximum value: 0.126965906888687
+Head size ratio mean value: 0.0790794546929201
+Calibration reprojection error mean value: 145.09572813246
+Calibration reprojection error outliers count: 0
+Error: no error
+
+TEST CALIBRATION: testcalibration_main
+Start time: 19.12.2016 13-34-25
+End time: 19.12.2016 13-34-41
+Image quality minimum value: 0.417322844266891
+Image quality mean value: 0.449396801377655
+Head movement maximum value: 24.7588368062799
+Head movement mean value: 16.2667815457921
+Head size ratio maximum value: 0.141336593074045
+Head size ratio mean value: 0.0939052321929303
+Calibration maximum distance: 298.563226134767
+Calibration corrected maximum distance: 47.8016736108685
+Calibration without correction was successful: True
+Calibration with correction was successful: True
+Error: no error
+
+VIDEOTASK: 1
+Start time: 19.12.2016 13-34-53
+End time: 19.12.2016 13-36-19
+Image quality minimum value: 0.275590538978577
+Image quality mean value: 0.373260482501011
+Head movement maximum value: 32.2024843762092
+Head movement mean value: 22.3026443572233
+Head size ratio maximum value: 0.135582355659576
+Head size ratio mean value: 0.0453361501127634
+Error: no error
