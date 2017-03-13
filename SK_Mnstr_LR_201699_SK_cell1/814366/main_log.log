@@ -1,0 +1,41 @@
+
+CALIBRATION: calibration_main
+Start time: 09.12.2016 17-39-05
+End time: 09.12.2016 17-39-39
+Image quality on start: 0.692913413047791
+Image quality minimum value: 0.645833373069763
+Image quality mean value: 0.760768862951149
+Head movement maximum value: 20.6155281280883
+Head movement mean value: 12.2502488660465
+Head size ratio maximum value: 0.107252919550173
+Head size ratio mean value: 0.0616778332549466
+Calibration reprojection error mean value: 125.415934774611
+Calibration reprojection error outliers count: 0
+Error: no error
+
+TEST CALIBRATION: testcalibration_main
+Start time: 09.12.2016 17-39-47
+End time: 09.12.2016 17-40-03
+Image quality minimum value: 0.763888895511627
+Image quality mean value: 0.79206536363249
+Head movement maximum value: 27.8926513619627
+Head movement mean value: 20.7562703069256
+Head size ratio maximum value: 0.12109375
+Head size ratio mean value: 0.102535498234346
+Calibration maximum distance: 255.049014897137
+Calibration corrected maximum distance: 40.8044115262063
+Calibration without correction was successful: True
+Calibration with correction was successful: True
+Error: no error
+
+CLICKTASK: c1
+Start time: 09.12.2016 17-40-08
+End time: 09.12.2016 17-40-15
+Image quality minimum value: 0.791390717029572
+Image quality mean value: 0.791390717029572
+Head movement maximum value: 0
+Head movement mean value: 0
+Head size ratio maximum value: 0
+Head size ratio mean value: 1
+Error: 
+External component has thrown an exception.

@@ -1,0 +1,16 @@
+
+CALIBRATION: calibration_main
+Start time: 09.12.2016 19-14-10
+End time: 09.12.2016 19-14-24
+Image quality on start: 0.569444477558136
+Image quality minimum value: 0
+Image quality mean value: 0.0790989122739652
+Head movement maximum value: 0
+Head movement mean value: 0
+Head size ratio maximum value: 0
+Head size ratio mean value: 1
+Calibration reprojection error mean value: 999999
+Calibration reprojection error outliers count: 999999
+Error: 
+Bad Face Size!
+Your face in the camera image is too big or too small. Please set your position again and repeat calibration.

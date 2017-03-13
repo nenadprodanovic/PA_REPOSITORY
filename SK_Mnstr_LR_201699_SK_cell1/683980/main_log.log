@@ -1,0 +1,56 @@
+
+CALIBRATION: calibration_main
+Start time: 08.12.2016 15-05-51
+End time: 08.12.2016 15-06-25
+Image quality on start: 0.866141736507416
+Image quality minimum value: 0
+Image quality mean value: 0.785634278853734
+Head movement maximum value: 7.07106781186548
+Head movement mean value: 3.58232821480788
+Head size ratio maximum value: 0.114700952310781
+Head size ratio mean value: 0.057205981977114
+Calibration reprojection error mean value: 111.594738218519
+Calibration reprojection error outliers count: 0
+Error: no error
+
+TEST CALIBRATION: testcalibration_main
+Start time: 08.12.2016 15-06-30
+End time: 08.12.2016 15-06-46
+Image quality minimum value: 0
+Image quality mean value: 0.795314886118915
+Head movement maximum value: 6.32455532033676
+Head movement mean value: 2.57974439857261
+Head size ratio maximum value: 0.132623551732395
+Head size ratio mean value: 0.090545742928362
+Calibration maximum distance: 429.147993121254
+Calibration corrected maximum distance: 98.2293235240883
+Calibration without correction was successful: False
+Calibration with correction was successful: True
+Error: no error
+
+CLICKTASK: c1
+Start time: 08.12.2016 15-06-52
+End time: 08.12.2016 15-07-01
+Image quality minimum value: 0
+Image quality mean value: 0.396689276631973
+Head movement maximum value: 10.295630140987
+Head movement mean value: 8.09181400030211
+Head size ratio maximum value: 0.12461087881523
+Head size ratio mean value: 0.14782302830337
+Error: 
+Your face is not detected properly! Please try to set your position again and repeat calibration.
+
+CALIBRATION: calibration_main
+Start time: 08.12.2016 15-08-28
+End time: 08.12.2016 15-08-37
+Image quality on start: 0.50000011920929
+Image quality minimum value: 0
+Image quality mean value: 0.404166662693024
+Head movement maximum value: 385.94559202043
+Head movement mean value: 12.8648530673477
+Head size ratio maximum value: ∞
+Head size ratio mean value: NaN
+Calibration reprojection error mean value: 999999
+Calibration reprojection error outliers count: 999999
+Error: 
+Sorry, but we have lost your eyes. This is probably due to excessive head movements. Please try to recalibrate again and give your best to keep your head still.
