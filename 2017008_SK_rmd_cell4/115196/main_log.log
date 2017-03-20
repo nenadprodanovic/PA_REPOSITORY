@@ -1,0 +1,104 @@
+
+CALIBRATION: calibration_main
+Start time: 20.03.2017 01-03-41
+End time: 20.03.2017 01-04-13
+Image quality on start: 0.677165329456329
+Image quality minimum value: 0.551181077957153
+Image quality mean value: 0.572175121965396
+Head movement maximum value: 28.0178514522438
+Head movement mean value: 18.1397853744552
+Head size ratio maximum value: 0.117551020408163
+Head size ratio mean value: 0.0585036742553247
+Calibration reprojection error mean value: 273.783382839627
+Calibration reprojection error outliers count: 3
+Error: no error
+
+TEST CALIBRATION: testcalibration_main
+Start time: 20.03.2017 01-04-15
+End time: 20.03.2017 01-04-35
+Image quality minimum value: 0.541666746139526
+Image quality mean value: 0.572787886163796
+Head movement maximum value: 30.0665927567458
+Head movement mean value: 27.5374407298844
+Head size ratio maximum value: 0.0875510204081633
+Head size ratio mean value: 0.0968901626915827
+Calibration maximum distance: 808.857218549726
+Calibration corrected maximum distance: 391.465196409591
+Calibration without correction was successful: False
+Calibration with correction was successful: False
+Error: 
+Calibration not accurate enough. 
+We need some further fine tuning of the calibration, it doesn't always get right from the first time. Please try again, give your best to keep your head still and focus at the red dot.
+
+CALIBRATION: calibration_main
+Start time: 20.03.2017 01-04-42
+End time: 20.03.2017 01-05-12
+Image quality on start: 0.637795269489288
+Image quality minimum value: 0.496062994003296
+Image quality mean value: 0.534968095887763
+Head movement maximum value: 40.2492235949962
+Head movement mean value: 13.6238698184127
+Head size ratio maximum value: 0.0943237261707157
+Head size ratio mean value: 0.0417972494751988
+Calibration reprojection error mean value: 364.473997328016
+Calibration reprojection error outliers count: 5
+Error: no error
+
+TEST CALIBRATION: testcalibration_main
+Start time: 20.03.2017 01-05-14
+End time: 20.03.2017 01-05-29
+Image quality minimum value: 0.496062994003296
+Image quality mean value: 0.512791440180767
+Head movement maximum value: 36.1247837363769
+Head movement mean value: 31.5029625491362
+Head size ratio maximum value: 0.0648483476686283
+Head size ratio mean value: 0.0600210845973229
+Calibration maximum distance: 675.192565124943
+Calibration corrected maximum distance: 155.46703830716
+Calibration without correction was successful: False
+Calibration with correction was successful: True
+Error: no error
+
+CLICKTASK: filler
+Start time: 20.03.2017 01-05-32
+End time: 20.03.2017 01-05-35
+Image quality minimum value: 0.503937005996704
+Image quality mean value: 0.712205842733383
+Head movement maximum value: 37.0540146272978
+Head movement mean value: 30.6821499579771
+Head size ratio maximum value: 0.110256023338866
+Head size ratio mean value: 0.202056737588653
+Error: no error
+
+CLICKTASK: full_shelf
+Start time: 20.03.2017 01-05-36
+End time: 20.03.2017 01-05-40
+Image quality minimum value: 0.527559041976929
+Image quality mean value: 0.634651140524791
+Head movement maximum value: 39.2045915678253
+Head movement mean value: 33.8295052067335
+Head size ratio maximum value: 0.0900734369498516
+Head size ratio mean value: 0.15084818774271
+Error: no error
+
+CLICKTASK: 3row_shelf
+Start time: 20.03.2017 01-05-41
+End time: 20.03.2017 01-05-45
+Image quality minimum value: 0.37007874250412
+Image quality mean value: 0.633184959491094
+Head movement maximum value: 40.1995024844836
+Head movement mean value: 39.0565919867948
+Head size ratio maximum value: 0.0900734369498516
+Head size ratio mean value: 0.0715667535562085
+Error: no error
+
+CLICKTASK: pack
+Start time: 20.03.2017 01-05-46
+End time: 20.03.2017 01-05-51
+Image quality minimum value: 0.4251968562603
+Image quality mean value: 0.602950500688334
+Head movement maximum value: 41.3037528561268
+Head movement mean value: 35.1085374350413
+Head size ratio maximum value: 0.0696645037975957
+Head size ratio mean value: 0.154149372675465
+Error: no error

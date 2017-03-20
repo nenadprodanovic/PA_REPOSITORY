@@ -1,0 +1,45 @@
+
+CALIBRATION: calibration_main
+Start time: 19.03.2017 11-27-33
+End time: 19.03.2017 11-27-45
+Image quality on start: 0.511811017990112
+Image quality minimum value: 0
+Image quality mean value: 0
+Head movement maximum value: 0
+Head movement mean value: 0
+Head size ratio maximum value: 0
+Head size ratio mean value: 1
+Calibration reprojection error mean value: 999999
+Calibration reprojection error outliers count: 999999
+Error: 
+Your face is not detected properly! Please try to set your position again and repeat calibration.
+
+CALIBRATION: calibration_main
+Start time: 19.03.2017 11-28-45
+End time: 19.03.2017 11-28-55
+Image quality on start: 0.527559041976929
+Image quality minimum value: 0
+Image quality mean value: 0.0782902104513986
+Head movement maximum value: 0
+Head movement mean value: 0
+Head size ratio maximum value: 0
+Head size ratio mean value: 1
+Calibration reprojection error mean value: 999999
+Calibration reprojection error outliers count: 999999
+Error: 
+Your face is not detected properly! Please try to set your position again and repeat calibration.
+
+CALIBRATION: calibration_main
+Start time: 19.03.2017 11-29-10
+End time: 19.03.2017 11-29-19
+Image quality on start: 0.566929161548615
+Image quality minimum value: 0
+Image quality mean value: 0.0180340351596955
+Head movement maximum value: 0
+Head movement mean value: 0
+Head size ratio maximum value: 0
+Head size ratio mean value: 1
+Calibration reprojection error mean value: 999999
+Calibration reprojection error outliers count: 999999
+Error: 
+Your face is not detected properly! Please try to set your position again and repeat calibration.

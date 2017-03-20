@@ -1,0 +1,56 @@
+
+CALIBRATION: calibration_main
+Start time: 16.03.2017 11-10-23
+End time: 16.03.2017 11-10-38
+Image quality on start: 0.472440958023071
+Image quality minimum value: 1000
+Image quality mean value: 0
+Head movement maximum value: 0
+Head movement mean value: 0
+Head size ratio maximum value: 0
+Head size ratio mean value: 0
+Calibration reprojection error mean value: 999999
+Calibration reprojection error outliers count: 999999
+Error: 
+Face not Centered!
+Your face is not positioned centrally in the camera image. Please set your position again and repeat calibration.
+
+CALIBRATION: calibration_main
+Start time: 16.03.2017 11-21-13
+End time: 16.03.2017 11-22-03
+Image quality on start: 0.448818892240524
+Image quality minimum value: 0.346456706523895
+Image quality mean value: 0.365246962417256
+Head movement maximum value: 6.08276253029822
+Head movement mean value: 3.45799599055986
+Head size ratio maximum value: 0.0986086087601629
+Head size ratio mean value: 0.0723069312941982
+Calibration reprojection error mean value: 165.115910847982
+Calibration reprojection error outliers count: 2
+Error: no error
+
+TEST CALIBRATION: testcalibration_main
+Start time: 16.03.2017 11-22-14
+End time: 16.03.2017 11-22-39
+Image quality minimum value: 0.346456706523895
+Image quality mean value: 0.37525309409414
+Head movement maximum value: 3
+Head movement mean value: 1.29695838065987
+Head size ratio maximum value: 0.0763069842086935
+Head size ratio mean value: 0.164650919339105
+Calibration maximum distance: 620.819619535337
+Calibration corrected maximum distance: 82.6619622317303
+Calibration without correction was successful: False
+Calibration with correction was successful: True
+Error: no error
+
+CLICKTASK: filler
+Start time: 16.03.2017 11-23-54
+End time: 16.03.2017 11-24-59
+Image quality minimum value: 0.37007874250412
+Image quality mean value: 0.476377964019775
+Head movement maximum value: 0
+Head movement mean value: 0
+Head size ratio maximum value: 0
+Head size ratio mean value: 1
+Error: no error

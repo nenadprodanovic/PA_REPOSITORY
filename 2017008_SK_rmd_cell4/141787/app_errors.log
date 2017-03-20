@@ -1,0 +1,4 @@
+17.03.2017 12:36:03 Info: Nie można odnaleźć określonego pliku   w System.Diagnostics.Process.StartWithShellExecuteEx(ProcessStartInfo startInfo)
+   w System.Diagnostics.Process.Start()
+   w PromoTester.Form1.startBrowserProccess(String browser, String url)
+   w PromoTester.Form1.openTest(Int32 selectedIndex)

@@ -1,0 +1,11 @@
+17.03.2017 16:01:14 
+One or more errors occurred.
+17.03.2017 16:01:58  One or more errors occurred.   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at System.Threading.Tasks.Task`1.get_Result()
+   at PromoTester.DatabaseConnector.responseTo(String queryToExecute)
+   at PromoTester.DatabaseConnector.increaseCreditCount(String usr, Int32 test_id, Int32 credit_count)
+   at PromoTester.UniversalTestReader.IncCreditCount(Int32 test_id, Int32 creditCount)
+   at PromoTester.InfoMediaDialog.processElement(XmlElement element)
+   at PromoTester.InfoMediaDialog.nextButton_Click(Object sender, EventArgs e)
+17.03.2017 16:02:50 Info: Test interupted, please try again!

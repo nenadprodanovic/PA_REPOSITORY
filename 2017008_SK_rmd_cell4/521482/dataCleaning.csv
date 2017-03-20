@@ -1,0 +1,7 @@
+Stimulus;;Usable;;Enough_Points;Good_InRatio;Good_Deviation;Good_Dev_Median;Good_Halves;;Points_No;InRatio;Dev_X;Dev_Y;Dev_X_Med;Dev_Y_Med;leftHalf;rightHalf;upHalf;downHalf;;duration
+filler-1;;0;;1;1;0;0;1;;166;0.98;156.09;133.17;156.16;133.26;0.73;0.27;0.81;0.19;;15
+filler-1_corrected;;0;;1;0;1;1;1;;166;0.27;12072.57;10627.61;12100.57;10653.98;0.86;0.14;0.80;0.20;;15
+FULL_BAY_IrishRecipe_cell4;;1;;1;1;1;1;1;;104;0.89;134.07;90.73;134.15;90.73;0.80;0.20;0.85;0.15;;9
+FULL_BAY_IrishRecipe_cell4_corrected;;0;;1;0;1;1;1;;104;0.10;11742.69;773.86;11769.19;773.86;0.85;0.15;0.85;0.15;;9
+XXX-translation-1;;0;;1;1;0;0;0;;18;1.00;154.27;51.19;158.99;52.66;0.72;0.28;1.00;0.00;;2
+XXX-translation-1_corrected;;0;;1;0;1;1;0;;18;0.11;2021.33;214.83;2126.35;219.36;0.94;0.06;0.94;0.06;;2

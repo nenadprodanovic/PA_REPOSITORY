@@ -1,0 +1,171 @@
+
+CALIBRATION: calibration_main
+Start time: 19.03.2017 21-30-47
+End time: 19.03.2017 21-31-20
+Image quality on start: 0.401574790477753
+Image quality minimum value: 0
+Image quality mean value: 0.383930825923526
+Head movement maximum value: 18.3847763108502
+Head movement mean value: 10.3343419473433
+Head size ratio maximum value: 0.260894881217328
+Head size ratio mean value: 0.178378111326716
+Calibration reprojection error mean value: 156.175315856934
+Calibration reprojection error outliers count: 1
+Error: no error
+
+TEST CALIBRATION: testcalibration_main
+Start time: 19.03.2017 21-31-29
+End time: 19.03.2017 21-31-45
+Image quality minimum value: 0.393700778484344
+Image quality mean value: 0.394571637090999
+Head movement maximum value: 42.9418211071678
+Head movement mean value: 36.8993108133774
+Head size ratio maximum value: 0.216965995548885
+Head size ratio mean value: 0.203154825209885
+Calibration maximum distance: 893.90044188377
+Calibration corrected maximum distance: 151.528875136061
+Calibration without correction was successful: False
+Calibration with correction was successful: True
+Error: no error
+
+CLICKTASK: filler
+Start time: 19.03.2017 21-32-05
+End time: 19.03.2017 21-32-27
+Image quality minimum value: 0.354330718517303
+Image quality mean value: 0.373088603743921
+Head movement maximum value: 72.0277724214764
+Head movement mean value: 54.4470756244211
+Head size ratio maximum value: 0.291496299363387
+Head size ratio mean value: 0.212899967550207
+Error: no error
+
+CLICKTASK: full_shelf
+Start time: 19.03.2017 21-32-41
+End time: 19.03.2017 21-32-48
+Image quality minimum value: 0
+Image quality mean value: 0.303149612620473
+Head movement maximum value: 396.137602355545
+Head movement mean value: 83.8301933625734
+Head size ratio maximum value: 0.34494850163035
+Head size ratio mean value: 0.590592813518969
+Error: 
+Sorry, but we have lost your eyes. This is probably due to excessive head movements. Please try to recalibrate again and give your best to keep your head still.
+
+CALIBRATION: calibration_main_full_shelf
+Start time: 19.03.2017 21-33-31
+End time: 19.03.2017 21-34-03
+Image quality on start: 0.4251968562603
+Image quality minimum value: 0.393700778484344
+Image quality mean value: 0.418114104764719
+Head movement maximum value: 22.4722050542442
+Head movement mean value: 12.4973249918
+Head size ratio maximum value: 0.117309443288241
+Head size ratio mean value: 0.0519522642238476
+Calibration reprojection error mean value: 174.888799031576
+Calibration reprojection error outliers count: 1
+Error: no error
+
+TEST CALIBRATION: testcalibration_main_full_shelf
+Start time: 19.03.2017 21-34-06
+End time: 19.03.2017 21-34-22
+Image quality minimum value: 0.409448832273483
+Image quality mean value: 0.419717705057513
+Head movement maximum value: 24.0208242989286
+Head movement mean value: 20.0500792493116
+Head size ratio maximum value: 0.0991155046826222
+Head size ratio mean value: 0.0763499103276635
+Calibration maximum distance: 414.594983085903
+Calibration corrected maximum distance: 179.805450417945
+Calibration without correction was successful: False
+Calibration with correction was successful: True
+Error: no error
+
+CLICKTASK: full_shelf
+Start time: 19.03.2017 21-34-26
+End time: 19.03.2017 21-34-40
+Image quality minimum value: 0
+Image quality mean value: 0.307239011987563
+Head movement maximum value: 55.5427763079953
+Head movement mean value: 39.9366129885215
+Head size ratio maximum value: 0.220668574401665
+Head size ratio mean value: 0.167060626531503
+Error: 
+Your face is not detected properly! Please try to set your position again and repeat calibration.
+
+CALIBRATION: calibration_main_full_shelf
+Start time: 19.03.2017 21-34-59
+End time: 19.03.2017 21-35-26
+Image quality on start: 0.409448832273483
+Image quality minimum value: 0
+Image quality mean value: 0.377253423003774
+Head movement maximum value: 15.8113883008419
+Head movement mean value: 8.01453718319973
+Head size ratio maximum value: 0.141461685167979
+Head size ratio mean value: 0.104082106704484
+Calibration reprojection error mean value: 999999
+Calibration reprojection error outliers count: 999999
+Error: 
+Your face is not detected properly! Please try to set your position again and repeat calibration.
+
+CALIBRATION: calibration_main_full_shelf
+Start time: 19.03.2017 21-35-55
+End time: 19.03.2017 21-36-26
+Image quality on start: 0.4251968562603
+Image quality minimum value: 0
+Image quality mean value: 0.394569251540245
+Head movement maximum value: 33.3766385365573
+Head movement mean value: 23.7770926482267
+Head size ratio maximum value: 0.299002688735913
+Head size ratio mean value: 0.210743558306982
+Calibration reprojection error mean value: 220.242042117649
+Calibration reprojection error outliers count: 3
+Error: no error
+
+TEST CALIBRATION: testcalibration_main_full_shelf
+Start time: 19.03.2017 21-36-29
+End time: 19.03.2017 21-36-40
+Image quality minimum value: 0
+Image quality mean value: 0.281830343247959
+Head movement maximum value: 40.1123422402632
+Head movement mean value: 35.8624571093776
+Head size ratio maximum value: 0.299002688735913
+Head size ratio mean value: 0.253772103756256
+Calibration maximum distance: 519.977884145086
+Calibration corrected maximum distance: 0
+Calibration without correction was successful: False
+Calibration with correction was successful: False
+Error: 
+Your face is not detected properly! Please try to set your position again and repeat calibration.
+
+CLICKTASK: full_shelf
+Start time: 19.03.2017 21-36-44
+End time: 19.03.2017 21-36-47
+Image quality minimum value: 1000
+Image quality mean value: 0
+Head movement maximum value: 0
+Head movement mean value: 0
+Head size ratio maximum value: 0
+Head size ratio mean value: 0
+Error: no error
+
+CLICKTASK: 3row_shelf
+Start time: 19.03.2017 21-36-54
+End time: 19.03.2017 21-37-11
+Image quality minimum value: 1000
+Image quality mean value: 0
+Head movement maximum value: 0
+Head movement mean value: 0
+Head size ratio maximum value: 0
+Head size ratio mean value: 0
+Error: no error
+
+CLICKTASK: pack
+Start time: 19.03.2017 21-37-15
+End time: 19.03.2017 21-37-31
+Image quality minimum value: 1000
+Image quality mean value: 0
+Head movement maximum value: 0
+Head movement mean value: 0
+Head size ratio maximum value: 0
+Head size ratio mean value: 0
+Error: no error
