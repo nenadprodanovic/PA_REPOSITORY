@@ -1,0 +1,30 @@
+
+CALIBRATION: calibration_main
+Start time: 15.03.2017 08-59-53
+End time: 15.03.2017 09-00-26
+Image quality on start: 0.791666686534882
+Image quality minimum value: 0.701388895511627
+Image quality mean value: 0.790279860531583
+Head movement maximum value: 21.095023109729
+Head movement mean value: 10.2796074992515
+Head size ratio maximum value: 0.159763313609467
+Head size ratio mean value: 0.0788494169857292
+Calibration reprojection error mean value: 114.656472947862
+Calibration reprojection error outliers count: 0
+Error: no error
+
+TEST CALIBRATION: testcalibration_main
+Start time: 15.03.2017 09-00-32
+End time: 15.03.2017 09-00-40
+Image quality minimum value: 0.493055552244186
+Image quality mean value: 0.739215010891155
+Head movement maximum value: 93.9840411984928
+Head movement mean value: 46.5440492497402
+Head size ratio maximum value: 0.44
+Head size ratio mean value: 0.27147506339814
+Calibration maximum distance: 502.020915898929
+Calibration corrected maximum distance: 0
+Calibration without correction was successful: False
+Calibration with correction was successful: False
+Error: 
+Sorry, but we have lost your eyes. This is probably due to excessive head movements. Please try to recalibrate again and give your best to keep your head still.
