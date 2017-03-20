@@ -1,0 +1,105 @@
+
+CALIBRATION: calibration_main
+Start time: 04.03.2017 08-51-29
+End time: 04.03.2017 08-52-05
+Image quality on start: 0.606299221515656
+Image quality minimum value: 0
+Image quality mean value: 0.424687757959654
+Head movement maximum value: 15.2643375224737
+Head movement mean value: 9.54571067404677
+Head size ratio maximum value: 0.141652249134948
+Head size ratio mean value: 0.0850966262043605
+Calibration reprojection error mean value: 266.483047485352
+Calibration reprojection error outliers count: 4
+Error: no error
+
+TEST CALIBRATION: testcalibration_main
+Start time: 04.03.2017 08-52-13
+End time: 04.03.2017 08-52-30
+Image quality minimum value: 0.4251968562603
+Image quality mean value: 0.430920402793323
+Head movement maximum value: 16.2788205960997
+Head movement mean value: 12.054542806777
+Head size ratio maximum value: 0.155222750865052
+Head size ratio mean value: 0.143228333721032
+Calibration maximum distance: 568.525285277621
+Calibration corrected maximum distance: 258.31182706179
+Calibration without correction was successful: False
+Calibration with correction was successful: True
+Error: no error
+
+CLICKTASK: shoppersmode
+Start time: 04.03.2017 08-52-37
+End time: 04.03.2017 08-53-05
+Image quality minimum value: 0.31496062874794
+Image quality mean value: 0.328726641100659
+Head movement maximum value: 15.6524758424985
+Head movement mean value: 11.9235846904998
+Head size ratio maximum value: 0.201867971453287
+Head size ratio mean value: 0.145428005214066
+Error: no error
+
+CLICKTASK: shelftask
+Start time: 04.03.2017 08-53-15
+End time: 04.03.2017 08-53-29
+Image quality minimum value: 0
+Image quality mean value: 0.146743021769957
+Head movement maximum value: 13.8924439894498
+Head movement mean value: 8.06682352623702
+Head size ratio maximum value: 0.182039359861592
+Head size ratio mean value: 0.167069046870085
+Error: 
+Your face is not detected properly! Please try to set your position again and repeat calibration.
+
+CALIBRATION: calibration_main_shelftask
+Start time: 04.03.2017 08-54-00
+End time: 04.03.2017 08-54-34
+Image quality on start: 0.519685029983521
+Image quality minimum value: 0.472440958023071
+Image quality mean value: 0.489283137522619
+Head movement maximum value: 5
+Head movement mean value: 2.50552924900326
+Head size ratio maximum value: 0.0718322427126711
+Head size ratio mean value: 0.0500966296959465
+Calibration reprojection error mean value: 166.256321377224
+Calibration reprojection error outliers count: 1
+Error: no error
+
+TEST CALIBRATION: testcalibration_main_shelftask
+Start time: 04.03.2017 08-54-36
+End time: 04.03.2017 08-54-58
+Image quality minimum value: 0.464566916227341
+Image quality mean value: 0.486071912606932
+Head movement maximum value: 5.8309518948453
+Head movement mean value: 3.2775826558836
+Head size ratio maximum value: 0.0481856038072576
+Head size ratio mean value: 0.061265257153262
+Calibration maximum distance: 374.156384416997
+Calibration corrected maximum distance: 361.001385038894
+Calibration without correction was successful: False
+Calibration with correction was successful: False
+Error: 
+Calibration not accurate enough. 
+We need some further fine tuning of the calibration, it doesn't always get right from the first time. Please try again, give your best to keep your head still and focus at the red dot.
+
+CLICKTASK: shelftask
+Start time: 04.03.2017 08-55-01
+End time: 04.03.2017 08-55-07
+Image quality minimum value: 0.354330718517303
+Image quality mean value: 0.365691795093673
+Head movement maximum value: 5
+Head movement mean value: 3.2580553140882
+Head size ratio maximum value: 0.0951814396192743
+Head size ratio mean value: 0.16839419091055
+Error: no error
+
+VIDEOTASK: 3drot
+Start time: 04.03.2017 08-55-18
+End time: 04.03.2017 08-55-29
+Image quality minimum value: 0
+Image quality mean value: 0.402992131412029
+Head movement maximum value: 5
+Head movement mean value: 1.62827370719066
+Head size ratio maximum value: 0.0561008658867076
+Head size ratio mean value: 0.219173772225528
+Error: no error

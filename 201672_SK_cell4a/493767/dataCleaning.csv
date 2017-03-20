@@ -1,0 +1,7 @@
+Stimulus;;Usable;;Enough_Points;Good_InRatio;Good_Deviation;Good_Dev_Median;Good_Halves;;Points_No;InRatio;Dev_X;Dev_Y;Dev_X_Med;Dev_Y_Med;leftHalf;rightHalf;upHalf;downHalf;;duration
+filler-1;;1;;1;1;1;1;1;;187;0.98;244.17;208.70;251.62;226.81;0.23;0.77;0.25;0.75;;9
+filler-1_corrected;;0;;1;1;1;1;0;;187;0.84;4581.43;177.66;4598.79;178.31;0.87;0.13;0.07;0.93;;9
+filler-2;;1;;1;1;1;1;1;;97;0.92;300.63;152.19;306.14;166.85;0.47;0.53;0.45;0.55;;5
+filler-2_corrected;;0;;1;1;0;0;0;;97;0.86;418.45;23.92;419.21;23.99;0.90;0.10;0.04;0.96;;5
+japanese-translation;;0;;1;1;0;0;0;;41;1.00;90.22;47.47;90.72;49.26;0.88;0.12;0.00;1.00;;2
+japanese-translation_corrected;;0;;1;1;0;0;0;;41;1.00;11.30;1.13;11.33;1.16;1.00;0.00;0.00;1.00;;2

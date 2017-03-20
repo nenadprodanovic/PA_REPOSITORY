@@ -1,0 +1,105 @@
+
+CALIBRATION: calibration_main
+Start time: 07.03.2017 00-40-01
+End time: 07.03.2017 00-40-36
+Image quality on start: 0.611111104488373
+Image quality minimum value: 0.430555522441864
+Image quality mean value: 0.60205115094597
+Head movement maximum value: 28.7923600977759
+Head movement mean value: 18.7726482499001
+Head size ratio maximum value: 0.16834777105336
+Head size ratio mean value: 0.0651897242891141
+Calibration reprojection error mean value: 76.2344724867079
+Calibration reprojection error outliers count: 0
+Error: no error
+
+TEST CALIBRATION: testcalibration_main
+Start time: 07.03.2017 00-40-40
+End time: 07.03.2017 00-40-56
+Image quality minimum value: 0.527777850627899
+Image quality mean value: 0.67902880093408
+Head movement maximum value: 27.7848879788996
+Head movement mean value: 24.8908231281486
+Head size ratio maximum value: 0.156837150429176
+Head size ratio mean value: 0.104216448389939
+Calibration maximum distance: 578.77802307966
+Calibration corrected maximum distance: 248.008064385011
+Calibration without correction was successful: False
+Calibration with correction was successful: True
+Error: no error
+
+CLICKTASK: shoppersmode
+Start time: 07.03.2017 00-41-01
+End time: 07.03.2017 00-41-39
+Image quality minimum value: 0.493055552244186
+Image quality mean value: 0.57520353884924
+Head movement maximum value: 45.3100430368368
+Head movement mean value: 31.2156838455615
+Head size ratio maximum value: 0.196778212887148
+Head size ratio mean value: 0.0772371685116435
+Error: no error
+
+CLICKTASK: shelftask
+Start time: 07.03.2017 00-41-47
+End time: 07.03.2017 00-41-54
+Image quality minimum value: 0
+Image quality mean value: 0.419912766073352
+Head movement maximum value: 41.3400532171888
+Head movement mean value: 20.6868004821613
+Head size ratio maximum value: 0.11000355998576
+Head size ratio mean value: 0.145401019642027
+Error: 
+Your face is not detected properly! Please try to set your position again and repeat calibration.
+
+CALIBRATION: calibration_main_shelftask
+Start time: 07.03.2017 00-42-06
+End time: 07.03.2017 00-42-39
+Image quality on start: 0.677165329456329
+Image quality minimum value: 0.625
+Image quality mean value: 0.712498193905677
+Head movement maximum value: 28.4253408071038
+Head movement mean value: 17.1497300549044
+Head size ratio maximum value: 0.149853490376329
+Head size ratio mean value: 0.0669062175265379
+Calibration reprojection error mean value: 94.3700218200684
+Calibration reprojection error outliers count: 0
+Error: no error
+
+TEST CALIBRATION: testcalibration_main_shelftask
+Start time: 07.03.2017 00-42-42
+End time: 07.03.2017 00-43-03
+Image quality minimum value: 0.645833373069763
+Image quality mean value: 0.699587988043294
+Head movement maximum value: 48.91829923454
+Head movement mean value: 42.8355560318265
+Head size ratio maximum value: 0.149853490376329
+Head size ratio mean value: 0.0952135355220061
+Calibration maximum distance: 963.360783922617
+Calibration corrected maximum distance: 582.992281252505
+Calibration without correction was successful: False
+Calibration with correction was successful: False
+Error: 
+Calibration not accurate enough. 
+We need some further fine tuning of the calibration, it doesn't always get right from the first time. Please try again, give your best to keep your head still and focus at the red dot.
+
+CLICKTASK: shelftask
+Start time: 07.03.2017 00-43-05
+End time: 07.03.2017 00-43-09
+Image quality minimum value: 0.480314970016479
+Image quality mean value: 0.534547231346369
+Head movement maximum value: 49.0407993409569
+Head movement mean value: 43.0343911847279
+Head size ratio maximum value: 0.0480206837115771
+Head size ratio mean value: 0.122482332663028
+Error: no error
+
+VIDEOTASK: 3drot
+Start time: 07.03.2017 00-43-27
+End time: 07.03.2017 00-43-38
+Image quality minimum value: 0.440944880247116
+Image quality mean value: 0.63410764179563
+Head movement maximum value: 57.4543296888929
+Head movement mean value: 48.4340832778161
+Head size ratio maximum value: 0.149853490376329
+Head size ratio mean value: 0.120777183666787
+Error: no error

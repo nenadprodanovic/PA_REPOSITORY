@@ -1,0 +1,78 @@
+
+CALIBRATION: calibration_main
+Start time: 02.03.2017 21-14-12
+End time: 02.03.2017 21-14-32
+Image quality on start: 0
+Image quality minimum value: 1000
+Image quality mean value: 0
+Head movement maximum value: 0
+Head movement mean value: 0
+Head size ratio maximum value: 0
+Head size ratio mean value: 0
+Calibration reprojection error mean value: 999999
+Calibration reprojection error outliers count: 999999
+Error: 
+Authentication Error!
+Please contact us on support@eyesee.be and inform us about this error.
+
+CALIBRATION: calibration_main
+Start time: 02.03.2017 21-14-55
+End time: 02.03.2017 21-15-34
+Image quality on start: 0.796178340911865
+Image quality minimum value: 0.737012982368469
+Image quality mean value: 0.759012517364623
+Head movement maximum value: 10.295630140987
+Head movement mean value: 7.20602179717855
+Head size ratio maximum value: 0.0669274670189164
+Head size ratio mean value: 0.0529995840431262
+Calibration reprojection error mean value: 88.644257651435
+Calibration reprojection error outliers count: 0
+Error: no error
+
+TEST CALIBRATION: testcalibration_main
+Start time: 02.03.2017 21-15-42
+End time: 02.03.2017 21-16-00
+Image quality minimum value: 0.733552634716034
+Image quality mean value: 0.756791172605572
+Head movement maximum value: 9.48683298050514
+Head movement mean value: 7.25571841852236
+Head size ratio maximum value: 0.0331927721045233
+Head size ratio mean value: 0.0933908510497449
+Calibration maximum distance: 254.049207831869
+Calibration corrected maximum distance: 51.4198405287298
+Calibration without correction was successful: True
+Calibration with correction was successful: True
+Error: no error
+
+CLICKTASK: shoppersmode
+Start time: 02.03.2017 21-16-11
+End time: 02.03.2017 21-16-45
+Image quality minimum value: 0.709150314331055
+Image quality mean value: 0.737041590526758
+Head movement maximum value: 21.5870331449229
+Head movement mean value: 13.3326208487394
+Head size ratio maximum value: 0.075445816186557
+Head size ratio mean value: 0.0661188983091133
+Error: no error
+
+CLICKTASK: shelftask
+Start time: 02.03.2017 21-16-55
+End time: 02.03.2017 21-17-15
+Image quality minimum value: 0.516129016876221
+Image quality mean value: 0.658738533023057
+Head movement maximum value: 55.8659108938537
+Head movement mean value: 30.1780307857658
+Head size ratio maximum value: 0.075445816186557
+Head size ratio mean value: 0.100782864883995
+Error: no error
+
+VIDEOTASK: 3drot
+Start time: 02.03.2017 21-17-23
+End time: 02.03.2017 21-17-36
+Image quality minimum value: 0.622047245502472
+Image quality mean value: 0.694977683979168
+Head movement maximum value: 27.5862284482674
+Head movement mean value: 20.7204326975012
+Head size ratio maximum value: 0.11964639536656
+Head size ratio mean value: 0.108324546399615
+Error: no error

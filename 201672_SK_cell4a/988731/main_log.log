@@ -1,0 +1,120 @@
+
+CALIBRATION: calibration_main
+Start time: 06.03.2017 02-17-24
+End time: 06.03.2017 02-17-37
+Image quality on start: 0.653543293476105
+Image quality minimum value: 1000
+Image quality mean value: 0
+Head movement maximum value: 0
+Head movement mean value: 0
+Head size ratio maximum value: 0
+Head size ratio mean value: 0
+Calibration reprojection error mean value: 999999
+Calibration reprojection error outliers count: 999999
+Error: 
+Initialization Error!
+Please contact us on support@eyesee.be and inform us about this error.
+
+CALIBRATION: calibration_main
+Start time: 06.03.2017 02-18-31
+End time: 06.03.2017 02-19-06
+Image quality on start: 0.527559041976929
+Image quality minimum value: 0
+Image quality mean value: 0.544893979659447
+Head movement maximum value: 9
+Head movement mean value: 4.34027391444964
+Head size ratio maximum value: 0.138314728764977
+Head size ratio mean value: 0.0770377309137124
+Calibration reprojection error mean value: 63.8440673616197
+Calibration reprojection error outliers count: 0
+Error: no error
+
+TEST CALIBRATION: testcalibration_main
+Start time: 06.03.2017 02-19-14
+End time: 06.03.2017 02-19-26
+Image quality minimum value: 0
+Image quality mean value: 0.348768315730839
+Head movement maximum value: 26.9072480941474
+Head movement mean value: 18.6962669278192
+Head size ratio maximum value: 0.161655005430042
+Head size ratio mean value: 0.352477394155025
+Calibration maximum distance: 362.096672174711
+Calibration corrected maximum distance: 0
+Calibration without correction was successful: False
+Calibration with correction was successful: False
+Error: 
+Your face is not detected properly! Please try to set your position again and repeat calibration.
+
+CLICKTASK: shoppersmode
+Start time: 06.03.2017 02-19-32
+End time: 06.03.2017 02-19-37
+Image quality minimum value: 0.551181077957153
+Image quality mean value: 0.551181077957153
+Head movement maximum value: 0
+Head movement mean value: 0
+Head size ratio maximum value: 0
+Head size ratio mean value: 1
+Error: 
+Your face is not detected properly! Please try to set your position again and repeat calibration.
+
+CALIBRATION: calibration_main
+Start time: 06.03.2017 02-19-50
+End time: 06.03.2017 02-20-24
+Image quality on start: 0.543307065963745
+Image quality minimum value: 0
+Image quality mean value: 0.540725461239253
+Head movement maximum value: 12.1655250605964
+Head movement mean value: 7.97885748104357
+Head size ratio maximum value: 0.0987021310687389
+Head size ratio mean value: 0.0446551827478067
+Calibration reprojection error mean value: 55.1490684085422
+Calibration reprojection error outliers count: 0
+Error: no error
+
+TEST CALIBRATION: testcalibration_main
+Start time: 06.03.2017 02-20-26
+End time: 06.03.2017 02-20-42
+Image quality minimum value: 1000
+Image quality mean value: 0
+Head movement maximum value: 0
+Head movement mean value: 0
+Head size ratio maximum value: 0
+Head size ratio mean value: 0
+Calibration maximum distance: 0
+Calibration corrected maximum distance: 0
+Calibration without correction was successful: False
+Calibration with correction was successful: False
+Error: no error
+
+CLICKTASK: shoppersmode
+Start time: 06.03.2017 02-20-44
+End time: 06.03.2017 02-21-58
+Image quality minimum value: 1000
+Image quality mean value: 0
+Head movement maximum value: 0
+Head movement mean value: 0
+Head size ratio maximum value: 0
+Head size ratio mean value: 0
+Error: no error
+
+CLICKTASK: shelftask
+Start time: 06.03.2017 02-22-09
+End time: 06.03.2017 02-22-23
+Image quality minimum value: 1000
+Image quality mean value: 0
+Head movement maximum value: 0
+Head movement mean value: 0
+Head size ratio maximum value: 0
+Head size ratio mean value: 0
+Error: no error
+
+VIDEOTASK: 3drot
+Start time: 06.03.2017 02-22-32
+End time: 06.03.2017 02-22-46
+Image quality minimum value: 1000
+Image quality mean value: 0
+Head movement maximum value: 0
+Head movement mean value: 0
+Head size ratio maximum value: 0
+Head size ratio mean value: 0
+Error: no error
