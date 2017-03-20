@@ -1,0 +1,86 @@
+
+CALIBRATION: calibration_main
+Start time: 27.01.2017 20-39-16
+End time: 27.01.2017 20-39-49
+Image quality on start: 0,819444417953491
+Image quality minimum value: 0,777777791023254
+Image quality mean value: 0,833103036078123
+Head movement maximum value: 13,3416640641263
+Head movement mean value: 7,4080543158152
+Head size ratio maximum value: 0,075445816186557
+Head size ratio mean value: 0,0625260705194154
+Calibration reprojection error mean value: 104,956781811184
+Calibration reprojection error outliers count: 0
+Error: no error
+
+TEST CALIBRATION: testcalibration_main
+Start time: 27.01.2017 20-39-53
+End time: 27.01.2017 20-40-18
+Image quality minimum value: 0,750000059604645
+Image quality mean value: 0,808095672551323
+Head movement maximum value: 16,1554944214035
+Head movement mean value: 10,4607145468745
+Head size ratio maximum value: 0,0727023319615913
+Head size ratio mean value: 0,094913891482519
+Calibration maximum distance: 891,578375691111
+Calibration corrected maximum distance: 714,359153367548
+Calibration without correction was successful: False
+Calibration with correction was successful: False
+Error: 
+Die Kalibrierung ist nicht präzise genug.
+Die Kalibrierung muss noch feiner justiert werden. Beim ersten Versuch ist sie nicht immer richtig. Versuchen Sie es erneut. Bewegen Sie Ihren Kopf nicht, und fokussieren Sie den roten Punkt.
+
+
+CALIBRATION: calibration_main
+Start time: 27.01.2017 20-40-32
+End time: 27.01.2017 20-41-04
+Image quality on start: 0,750000059604645
+Image quality minimum value: 0,638888835906982
+Image quality mean value: 0,734675499682243
+Head movement maximum value: 26,3058928759318
+Head movement mean value: 15,0088101847642
+Head size ratio maximum value: 0,0960653729359173
+Head size ratio mean value: 0,0829379399224246
+Calibration reprojection error mean value: 268,864632500543
+Calibration reprojection error outliers count: 3
+Error: no error
+
+TEST CALIBRATION: testcalibration_main
+Start time: 27.01.2017 20-41-06
+End time: 27.01.2017 20-41-22
+Image quality minimum value: 0,625
+Image quality mean value: 0,706037666679414
+Head movement maximum value: 36,3455636907725
+Head movement mean value: 27,1888456961004
+Head size ratio maximum value: 0,126510185197253
+Head size ratio mean value: 0,124852101024439
+Calibration maximum distance: 705,932008057433
+Calibration corrected maximum distance: 732,628145787479
+Calibration without correction was successful: False
+Calibration with correction was successful: False
+Error: 
+Die Kalibrierung ist nicht präzise genug.
+Die Kalibrierung muss noch feiner justiert werden. Beim ersten Versuch ist sie nicht immer richtig. Versuchen Sie es erneut. Bewegen Sie Ihren Kopf nicht, und fokussieren Sie den roten Punkt.
+
+
+WATCHTASK: 1
+Start time: 27.01.2017 20-42-02
+End time: 27.01.2017 20-42-34
+Image quality minimum value: 1000
+Image quality mean value: 0
+Head movement maximum value: 0
+Head movement mean value: 0
+Head size ratio maximum value: 0
+Head size ratio mean value: 0
+Error: no error
+
+VIDEOTASK: 2
+Start time: 27.01.2017 20-42-42
+End time: 27.01.2017 20-43-03
+Image quality minimum value: 1000
+Image quality mean value: 0
+Head movement maximum value: 0
+Head movement mean value: 0
+Head size ratio maximum value: 0
+Head size ratio mean value: 0
+Error: no error
