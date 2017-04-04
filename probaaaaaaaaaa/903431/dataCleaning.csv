@@ -1,9 +1,0 @@
-Stimulus;;Usable;;Enough_Points;Good_InRatio;Good_Deviation;Good_Dev_Median;Good_Halves;;Points_No;InRatio;Dev_X;Dev_Y;Dev_X_Med;Dev_Y_Med;leftHalf;rightHalf;upHalf;downHalf;;duration
-ABNA-Current-Task1-nl;;0;;1;1;0;0;1;;44;1.00;157.03;59.28;167.90;59.40;0.66;0.34;0.50;0.50;;7
-ABNA-Current-Task1-nl_corrected;;1;;1;1;1;1;1;;44;0.98;260.45;74.13;284.91;74.73;0.68;0.32;0.68;0.32;;7
-ABNA-Current-Task2-nl;;0;;1;1;0;0;0;;43;1.00;32.87;47.55;33.00;50.27;1.00;0.00;0.93;0.07;;7
-ABNA-Current-Task2-nl_corrected;;0;;1;1;0;0;0;;43;0.88;78.98;41.49;79.14;44.00;1.00;0.00;1.00;0.00;;7
-ABNA-Redesign-Task1-nl;;0;;1;1;0;0;1;;44;1.00;86.04;73.45;93.21;77.74;0.25;0.75;0.34;0.66;;7
-ABNA-Redesign-Task1-nl_corrected;;0;;1;1;0;0;1;;44;1.00;95.60;72.79;95.86;78.36;0.11;0.89;0.50;0.50;;7
-ABNA-Redesign-Task2-nl;;1;;1;1;1;1;1;;44;0.91;170.30;205.96;175.69;208.73;0.66;0.34;0.70;0.30;;7
-ABNA-Redesign-Task2-nl_corrected;;1;;1;1;1;1;1;;44;0.75;317.83;131.93;318.18;133.45;0.59;0.41;0.84;0.16;;7
