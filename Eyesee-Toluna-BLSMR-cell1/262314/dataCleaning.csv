@@ -1,5 +1,0 @@
-Stimulus;;Usable;;Enough_Points;Good_InRatio;Good_Deviation;Good_Dev_Median;Good_Halves;;Points_No;InRatio;Dev_X;Dev_Y;Dev_X_Med;Dev_Y_Med;leftHalf;rightHalf;upHalf;downHalf;;duration
-Filler;;1;;1;1;1;1;1;;183;0.97;175.47;53.12;177.17;53.28;0.55;0.45;0.30;0.70;;17
-Filler_corrected;;1;;1;1;1;1;1;;183;0.82;195.72;134.18;195.74;135.30;0.54;0.46;0.55;0.45;;17
-LightSwitch;;1;;1;1;1;1;1;;873;0.95;202.36;132.79;202.40;133.30;0.75;0.25;0.20;0.80;;82
-LightSwitch_corrected;;1;;1;1;1;1;1;;873;0.73;812.75;745.49;819.04;752.63;0.76;0.24;0.44;0.56;;82
