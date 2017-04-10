@@ -1,0 +1,88 @@
+
+CALIBRATION: calibration_main
+Start time: 08.12.2016 11-34-25
+End time: 08.12.2016 11-34-37
+Image quality on start: 0.506944417953491
+Image quality minimum value: 0.354166626930237
+Image quality mean value: 0.468646097183228
+Head movement maximum value: 64.5368112010502
+Head movement mean value: 6.45368112010502
+Head size ratio maximum value: 0.635545467532261
+Head size ratio mean value: 0.963554546753226
+Calibration reprojection error mean value: 999999
+Calibration reprojection error outliers count: 999999
+Error: 
+Sorry, but we have lost your eyes. This is probably due to excessive head movements. Please try to recalibrate again and give your best to keep your head still.
+
+CALIBRATION: calibration_main
+Start time: 08.12.2016 11-36-02
+End time: 08.12.2016 11-36-36
+Image quality on start: 0.84027773141861
+Image quality minimum value: 0.756944477558136
+Image quality mean value: 0.866694572576998
+Head movement maximum value: 10.0498756211209
+Head movement mean value: 4.68592821129142
+Head size ratio maximum value: 0.250330578512397
+Head size ratio mean value: 0.0931776105905693
+Calibration reprojection error mean value: 59.2915317217509
+Calibration reprojection error outliers count: 0
+Error: no error
+
+TEST CALIBRATION: testcalibration_main
+Start time: 08.12.2016 11-36-38
+End time: 08.12.2016 11-36-54
+Image quality minimum value: 0.722222208976746
+Image quality mean value: 0.860414940176658
+Head movement maximum value: 10.4403065089106
+Head movement mean value: 6.42778930323511
+Head size ratio maximum value: 0.270743801652892
+Head size ratio mean value: 0.162850370429805
+Calibration maximum distance: 122.331516789419
+Calibration corrected maximum distance: 54.230987451825
+Calibration without correction was successful: True
+Calibration with correction was successful: True
+Error: no error
+
+CLICKTASK: c1
+Start time: 08.12.2016 11-37-31
+End time: 08.12.2016 11-37-38
+Image quality minimum value: 0.770833373069763
+Image quality mean value: 0.80229641471879
+Head movement maximum value: 7.28010988928052
+Head movement mean value: 6.03382792876154
+Head size ratio maximum value: 0.106115702479339
+Head size ratio mean value: 0.107989564364757
+Error: no error
+
+CLICKTASK: c2
+Start time: 08.12.2016 11-37-41
+End time: 08.12.2016 11-37-47
+Image quality minimum value: 0.750000059604645
+Image quality mean value: 0.81589144823097
+Head movement maximum value: 9.89949493661167
+Head movement mean value: 7.16473733371387
+Head size ratio maximum value: 0.0929752066115703
+Head size ratio mean value: 0.0370572609208973
+Error: no error
+
+CLICKTASK: c3
+Start time: 08.12.2016 11-37-50
+End time: 08.12.2016 11-38-03
+Image quality minimum value: 0.715277791023254
+Image quality mean value: 0.778731766975287
+Head movement maximum value: 9.21954445729289
+Head movement mean value: 6.51038972179225
+Head size ratio maximum value: 0.106115702479339
+Head size ratio mean value: 0.0879820936639119
+Error: no error
+
+CLICKTASK: c4
+Start time: 08.12.2016 11-38-06
+End time: 08.12.2016 11-38-21
+Image quality minimum value: 0.722222208976746
+Image quality mean value: 0.814241559702008
+Head movement maximum value: 10.4403065089106
+Head movement mean value: 7.74317661479731
+Head size ratio maximum value: 0.106115702479339
+Head size ratio mean value: 0.0680696999318699
+Error: no error

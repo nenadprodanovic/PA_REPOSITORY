@@ -1,0 +1,11 @@
+Stimulus;;Usable;;Enough_Points;Good_InRatio;Good_Deviation;Good_Dev_Median;Good_Halves;;Points_No;InRatio;Dev_X;Dev_Y;Dev_X_Med;Dev_Y_Med;leftHalf;rightHalf;upHalf;downHalf;;duration
+filler-1;;0;;1;1;0;0;1;;13;1.00;103.06;59.04;103.08;59.13;0.85;0.15;0.23;0.77;;1
+filler-1_corrected;;0;;1;0;1;1;0;;13;0.38;1155.09;129.91;1214.37;131.12;0.62;0.38;0.08;0.92;;1
+1.reference-lSRP-Right-shelf;;0;;1;1;1;1;0;;36;1.00;165.32;89.96;165.48;90.02;0.08;0.92;0.00;1.00;;4
+1.reference-lSRP-Right-shelf_corrected;;0;;1;0;1;1;1;;36;0.47;3401.47;838.18;3433.27;840.02;0.17;0.83;0.39;0.61;;4
+translation-far;;1;;1;1;1;1;1;;17;1.00;191.23;113.58;192.31;126.55;0.12;0.88;0.12;0.88;;2
+translation-far_corrected;;1;;1;1;1;1;1;;17;0.82;867.85;266.63;884.66;278.24;0.18;0.82;0.24;0.76;;2
+1.Shabam-Marketing-reference;;1;;1;1;1;1;1;;136;0.94;300.94;95.70;303.09;96.63;0.38;0.63;0.18;0.82;;16
+1.Shabam-Marketing-reference_corrected;;1;;1;1;1;1;1;;136;0.69;6550.71;1654.24;6551.09;1667.88;0.25;0.75;0.33;0.67;;16
+translation-individual;;0;;1;1;0;0;1;;14;1.00;135.18;82.56;141.22;83.15;0.36;0.64;0.86;0.14;;2
+translation-individual_corrected;;1;;1;1;1;1;1;;14;0.79;242.29;249.01;243.87;266.54;0.43;0.57;0.43;0.57;;2

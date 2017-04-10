@@ -1,0 +1,41 @@
+
+CALIBRATION: calibration_main
+Start time: 08.12.2016 10-31-18
+End time: 08.12.2016 10-31-54
+Image quality on start: 0.480314970016479
+Image quality minimum value: 0.472440958023071
+Image quality mean value: 0.490960282320417
+Head movement maximum value: 13.0384048104053
+Head movement mean value: 7.91813541144322
+Head size ratio maximum value: 0.142394283032294
+Head size ratio mean value: 0.0813838820019435
+Calibration reprojection error mean value: 171.924587249756
+Calibration reprojection error outliers count: 1
+Error: no error
+
+TEST CALIBRATION: testcalibration_main
+Start time: 08.12.2016 10-31-58
+End time: 08.12.2016 10-32-14
+Image quality minimum value: 0.488188982009888
+Image quality mean value: 0.494891266028086
+Head movement maximum value: 12.1655250605964
+Head movement mean value: 6.39238894285899
+Head size ratio maximum value: 0.163878332752956
+Head size ratio mean value: 0.157036370544524
+Calibration maximum distance: 387.191167254626
+Calibration corrected maximum distance: 100.239712689133
+Calibration without correction was successful: False
+Calibration with correction was successful: True
+Error: no error
+
+CLICKTASK: c1
+Start time: 08.12.2016 10-38-44
+End time: 08.12.2016 10-38-55
+Image quality minimum value: 0
+Image quality mean value: 0.184023371146571
+Head movement maximum value: 67.0298440994756
+Head movement mean value: 33.4423608917763
+Head size ratio maximum value: 0.344971157776802
+Head size ratio mean value: 0.630944572431317
+Error: 
+Your face is not detected properly! Please try to set your position again and repeat calibration.
