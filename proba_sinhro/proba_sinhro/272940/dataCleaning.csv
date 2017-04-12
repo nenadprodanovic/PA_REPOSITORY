@@ -1,0 +1,7 @@
+Stimulus;;Usable;;Enough_Points;Good_InRatio;Good_Deviation;Good_Dev_Median;Good_Halves;;Points_No;InRatio;Dev_X;Dev_Y;Dev_X_Med;Dev_Y_Med;leftHalf;rightHalf;upHalf;downHalf;;duration
+LG-Lifes-more-convenient;;1;;1;1;1;1;1;;60;0.95;473.35;467.74;494.51;468.63;0.30;0.70;0.53;0.47;;5
+LG-Lifes-more-convenient_corrected;;1;;1;1;1;1;1;;60;0.88;651.73;4231.98;651.75;4279.01;0.60;0.40;0.63;0.37;;5
+katrina-kaif-panasonic-ad-1;;1;;1;1;1;1;1;;60;0.87;131.02;70.84;131.02;71.11;0.18;0.82;0.72;0.28;;5
+katrina-kaif-panasonic-ad-1_corrected;;1;;1;1;1;1;1;;60;0.97;154.40;88.90;157.59;88.91;0.52;0.48;0.73;0.27;;5
+Whirlpool-Print_Fridge_Ads;;1;;1;1;1;1;1;;60;0.83;237.25;180.19;260.80;184.65;0.40;0.60;0.50;0.50;;5
+Whirlpool-Print_Fridge_Ads_corrected;;1;;1;1;1;1;1;;60;0.93;200.90;203.05;223.32;205.82;0.75;0.25;0.87;0.13;;5
