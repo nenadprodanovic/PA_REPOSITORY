@@ -1,4 +1,0 @@
-18.03.2017 13:25:37 Info: The system cannot find the file specified   at System.Diagnostics.Process.StartWithShellExecuteEx(ProcessStartInfo startInfo)
-   at System.Diagnostics.Process.Start()
-   at PromoTester.Form1.startBrowserProccess(String browser, String url)
-   at PromoTester.Form1.openTest(Int32 selectedIndex)

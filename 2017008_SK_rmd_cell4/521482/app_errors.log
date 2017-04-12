@@ -1,5 +1,0 @@
-16.03.2017 11:22:48  Index was out of range. Must be non-negative and less than the size of the collection.
-Parameter name: index   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
-   at System.Collections.Generic.List`1.get_Item(Int32 index)
-   at PromoTester.InfoMediaDialog.dataCorrection(String folderPath, List`1 stimuliInfo)
-16.03.2017 11:28:29 Info: Test interupted, please try again!
