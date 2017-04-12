@@ -1,4 +1,0 @@
-27.01.2017 16:07:12 Info: Das System kann die angegebene Datei nicht finden   bei System.Diagnostics.Process.StartWithShellExecuteEx(ProcessStartInfo startInfo)
-   bei System.Diagnostics.Process.Start()
-   bei PromoTester.Form1.startBrowserProccess(String browser, String url)
-   bei PromoTester.Form1.openTest(Int32 selectedIndex)
