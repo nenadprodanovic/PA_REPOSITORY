@@ -1,0 +1,12 @@
+05.12.2016 13:08:52  El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index   en System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   en System.Collections.Generic.List`1.get_Item(Int32 index)
+   en PromoTester.InfoMediaDialog.dataCorrection(String folderPath, List`1 stimuliInfo)
+05.12.2016 13:11:15 
+Can't create video!
+05.12.2016 13:12:36 
+Can't create video!
+05.12.2016 13:14:12  El índice estaba fuera del intervalo. Debe ser un valor no negativo e inferior al tamaño de la colección.
+Nombre del parámetro: index   en System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   en System.Collections.Generic.List`1.get_Item(Int32 index)
+   en PromoTester.InfoMediaDialog.dataCorrection(String folderPath, List`1 stimuliInfo)

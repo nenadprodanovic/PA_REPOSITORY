@@ -1,0 +1,9 @@
+Stimulus;;Usable;;Enough_Points;Good_InRatio;Good_Deviation;Good_Dev_Median;Good_Halves;;Points_No;InRatio;Dev_X;Dev_Y;Dev_X_Med;Dev_Y_Med;leftHalf;rightHalf;upHalf;downHalf;;duration
+task2_prod_cell1;;0;;0;1;0;0;0;;9;0.89;232.67;153.68;240.20;153.70;0.11;0.89;1.00;0.00;;1
+task2_prod_cell1_corrected;;0;;0;1;0;0;0;;9;0.78;571.99;121.60;571.99;121.61;0.22;0.78;1.00;0.00;;1
+Cell1_22_Yokids_CherryBerryBase;;0;;0;1;0;0;0;;2;1.00;121.00;1024.50;121.00;1024.50;1.00;0.00;0.50;0.50;;1
+Cell1_22_Yokids_CherryBerryBase_corrected;;0;;0;1;1;1;0;;2;1.00;404.00;514.50;404.00;514.50;0.50;0.50;1.00;0.00;;1
+Cell1_11_Light_Fit_vanilla;;0;;0;0;0;0;0;;6;0.17;152.24;51.82;153.44;58.82;1.00;0.00;1.00;0.00;;1
+Cell1_11_Light_Fit_vanilla_corrected;;0;;0;0;0;0;0;;6;0.17;305.07;100.66;319.72;107.54;0.00;1.00;1.00;0.00;;1
+TargetC;;0;;0;0;0;0;0;;1;0.00;0.00;0.00;0.00;0.00;1.00;0.00;0.00;1.00;;0
+TargetC_corrected;;0;;0;0;0;0;0;;1;0.00;0.00;0.00;0.00;0.00;1.00;0.00;0.00;1.00;;0
