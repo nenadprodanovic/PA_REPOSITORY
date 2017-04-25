@@ -1,9 +1,0 @@
-Stimulus;;Usable;;Enough_Points;Good_InRatio;Good_Deviation;Good_Dev_Median;Good_Halves;;Points_No;InRatio;Dev_X;Dev_Y;Dev_X_Med;Dev_Y_Med;leftHalf;rightHalf;upHalf;downHalf;;duration
-task2_prod_cell1;;0;;1;0;0;0;0;;18;0.50;335.24;524.94;349.77;527.55;0.00;1.00;0.94;0.06;;3
-task2_prod_cell1_corrected;;0;;1;1;1;1;0;;18;0.94;409.31;559.53;417.53;576.58;1.00;0.00;0.94;0.06;;3
-Cell1_21_Light_Fit_Strawberry;;0;;1;1;0;0;0;;14;1.00;131.80;591.24;131.82;602.98;0.29;0.71;1.00;0.00;;3
-Cell1_21_Light_Fit_Strawberry_corrected;;0;;1;0;0;1;0;;14;0.43;342.99;513.19;349.14;532.95;1.00;0.00;1.00;0.00;;3
-Cell1_12_YoBaby_Banana_Mango;;0;;0;1;0;0;0;;9;1.00;193.31;84.90;193.43;87.38;0.22;0.78;1.00;0.00;;1
-Cell1_12_YoBaby_Banana_Mango_corrected;;0;;0;0;0;0;0;;9;0.44;135.53;1.07;138.51;1.15;1.00;0.00;1.00;0.00;;1
-Cell1_22_Yokids_CherryBerryBase;;0;;0;1;0;0;0;;6;1.00;67.20;44.15;73.46;44.99;0.67;0.33;1.00;0.00;;1
-Cell1_22_Yokids_CherryBerryBase_corrected;;0;;0;0;0;0;0;;6;0.00;66.33;0.69;71.43;0.71;1.00;0.00;1.00;0.00;;1
