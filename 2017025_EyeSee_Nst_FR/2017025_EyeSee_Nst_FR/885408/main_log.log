@@ -1,0 +1,87 @@
+
+CALIBRATION: calibration_main
+Start time: 11.05.2017 10-42-21
+End time: 11.05.2017 10-42-54
+Image quality on start: 0,543307065963745
+Image quality minimum value: 0,506944417953491
+Image quality mean value: 0,561497010419081
+Head movement maximum value: 14,560219778561
+Head movement mean value: 7,77131472113594
+Head size ratio maximum value: 0,202366230677765
+Head size ratio mean value: 0,0799461335028083
+Calibration reprojection error mean value: 48,2658184899224
+Calibration reprojection error outliers count: 0
+Error: no error
+
+TEST CALIBRATION: testcalibration_main
+Start time: 11.05.2017 10-42-55
+End time: 11.05.2017 10-43-13
+Image quality minimum value: 0
+Image quality mean value: 0,555958205732432
+Head movement maximum value: 22,2036033111745
+Head movement mean value: 14,5263725153262
+Head size ratio maximum value: 0,280428061831153
+Head size ratio mean value: 0,118401145822073
+Calibration maximum distance: 488,380998811379
+Calibration corrected maximum distance: 337,266956578909
+Calibration without correction was successful: False
+Calibration with correction was successful: False
+Error: 
+Calibrage pas assez précis.
+Nous avons besoin d'un réglage plus précis du calibrage, si vous le faites pour la première fois, sachez que cela ne marche pas du premier coup. S'il vous plaît essayez de nouveau, faites de votre mieux pour ne pas bouger la tête et pour vous concentrer sur le point rouge.
+
+
+CALIBRATION: calibration_main
+Start time: 11.05.2017 10-43-21
+End time: 11.05.2017 10-43-29
+Image quality on start: 0,582677185535431
+Image quality minimum value: 0,479166686534882
+Image quality mean value: 0,557617026567459
+Head movement maximum value: 7,21110255092798
+Head movement mean value: 0,721110255092798
+Head size ratio maximum value: 0,366712385487294
+Head size ratio mean value: 0,936671238548729
+Calibration reprojection error mean value: 999999
+Calibration reprojection error outliers count: 999999
+Error: 
+Désolés, mais nous avons perdu votre regard. Cela est probablement dû à des mouvements de tête excessifs. S'il vous plaît essayez de recalibrer de nouveau et faites de votre mieux pour ne pas bouger la tête du tout.
+
+CALIBRATION: calibration_main
+Start time: 11.05.2017 10-43-39
+End time: 11.05.2017 10-44-15
+Image quality on start: 0,598425209522247
+Image quality minimum value: 0,598425209522247
+Image quality mean value: 0,620792807317248
+Head movement maximum value: 7,81024967590665
+Head movement mean value: 5,03198052255672
+Head size ratio maximum value: 0,105835852859662
+Head size ratio mean value: 0,0517349300831444
+Calibration reprojection error mean value: 205,817280239529
+Calibration reprojection error outliers count: 2
+Error: no error
+
+TEST CALIBRATION: testcalibration_main
+Start time: 11.05.2017 10-44-16
+End time: 11.05.2017 10-44-33
+Image quality minimum value: 0,614173233509064
+Image quality mean value: 0,629870127547871
+Head movement maximum value: 14,3178210632764
+Head movement mean value: 9,96245748987346
+Head size ratio maximum value: 0,115504535147392
+Head size ratio mean value: 0,102647384109969
+Calibration maximum distance: 352,706676999458
+Calibration corrected maximum distance: 290,330845760488
+Calibration without correction was successful: False
+Calibration with correction was successful: True
+Error: no error
+
+WATCHTASK: 1
+Start time: 11.05.2017 10-44-34
+End time: 11.05.2017 10-45-11
+Image quality minimum value: 0,582677185535431
+Image quality mean value: 0,605961763858795
+Head movement maximum value: 12,8062484748657
+Head movement mean value: 9,82983341261279
+Head size ratio maximum value: 0,137755102040816
+Head size ratio mean value: 0,0774316428511439
+Error: no error
