@@ -1,0 +1,4 @@
+16.05.2017 20:31:09  De index valt buiten het bereik. Deze mag niet negatief zijn en moet kleiner zijn dan de grootte van de verzameling.
+Parameternaam: index   bij System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   bij System.Collections.Generic.List`1.get_Item(Int32 index)
+   bij PromoTester.InfoMediaDialog.dataCorrection(String folderPath, List`1 stimuliInfo)

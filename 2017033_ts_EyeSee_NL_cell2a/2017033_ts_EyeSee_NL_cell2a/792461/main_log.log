@@ -1,0 +1,103 @@
+
+CALIBRATION: calibration_main
+Start time: 16.05.2017 22-36-04
+End time: 16.05.2017 22-36-35
+Image quality on start: 0,748031497001648
+Image quality minimum value: 0
+Image quality mean value: 0,839154432042997
+Head movement maximum value: 13,9283882771841
+Head movement mean value: 8,28693971922099
+Head size ratio maximum value: 0,32903644095269
+Head size ratio mean value: 0,228214698757535
+Calibration reprojection error mean value: 304,110155741374
+Calibration reprojection error outliers count: 4
+Error: no error
+
+TEST CALIBRATION: testcalibration_main
+Start time: 16.05.2017 22-36-38
+End time: 16.05.2017 22-36-54
+Image quality minimum value: 0,834645688533783
+Image quality mean value: 0,867829024791718
+Head movement maximum value: 12,5299640861417
+Head movement mean value: 9,28245160252411
+Head size ratio maximum value: 0,135294902843195
+Head size ratio mean value: 0,180476484943818
+Calibration maximum distance: 846,21155747248
+Calibration corrected maximum distance: 219,920440159618
+Calibration without correction was successful: False
+Calibration with correction was successful: True
+Error: no error
+
+CLICKTASK: 2017033_ts_EyeSee_cell1b_task1
+Start time: 16.05.2017 22-36-58
+End time: 16.05.2017 22-37-12
+Image quality minimum value: 0,480314970016479
+Image quality mean value: 0,585939289707887
+Head movement maximum value: 18,8679622641132
+Head movement mean value: 11,9021453366523
+Head size ratio maximum value: 0,32903644095269
+Head size ratio mean value: 0,301814871650246
+Error: no error
+
+CLICKTASK: 2017033_ts_EyeSee_cell1b_task2
+Start time: 16.05.2017 22-37-15
+End time: 16.05.2017 22-37-23
+Image quality minimum value: 0,606299221515656
+Image quality mean value: 0,643957550111024
+Head movement maximum value: 39,6232255123179
+Head movement mean value: 14,774689605047
+Head size ratio maximum value: 0,390133674033676
+Head size ratio mean value: 0,308463424320333
+Error: 
+Onze excuses, maar we volgen uw ogen niet meer. Waarschijnlijk is dit te wijten aan hoofdbewegingen. Gelieve opnieuw te calibreren en aub uw hoofd stil te houden.
+
+CALIBRATION: calibration_main_2017033_ts_EyeSee_cell1b_task2
+Start time: 16.05.2017 22-37-36
+End time: 16.05.2017 22-38-06
+Image quality on start: 0,803149580955505
+Image quality minimum value: 0,805555522441864
+Image quality mean value: 0,901820404931556
+Head movement maximum value: 8,24621125123532
+Head movement mean value: 3,68427491897723
+Head size ratio maximum value: 0,097903207885589
+Head size ratio mean value: 0,085825880209358
+Calibration reprojection error mean value: 394,427252875434
+Calibration reprojection error outliers count: 6
+Error: no error
+
+TEST CALIBRATION: testcalibration_main_2017033_ts_EyeSee_cell1b_task2
+Start time: 16.05.2017 22-38-09
+End time: 16.05.2017 22-38-25
+Image quality minimum value: 0,840277850627899
+Image quality mean value: 0,892145970253029
+Head movement maximum value: 10,816653826392
+Head movement mean value: 6,09710142495183
+Head size ratio maximum value: 0,0812685512928366
+Head size ratio mean value: 0,11753525156487
+Calibration maximum distance: 1198,99457880342
+Calibration corrected maximum distance: 114,825955254028
+Calibration without correction was successful: False
+Calibration with correction was successful: True
+Error: no error
+
+CLICKTASK: 2017033_ts_EyeSee_cell1b_task2
+Start time: 16.05.2017 22-38-27
+End time: 16.05.2017 22-38-32
+Image quality minimum value: 0,590551197528839
+Image quality mean value: 0,620400273799896
+Head movement maximum value: 5,3851648071345
+Head movement mean value: 3,5540659228538
+Head size ratio maximum value: 0,0647608768114791
+Head size ratio mean value: 0,354899763495818
+Error: no error
+
+WATCHTASK: 2017033_ts_EyeSee_cell1b_task_3
+Start time: 16.05.2017 22-38-35
+End time: 16.05.2017 22-38-56
+Image quality minimum value: 0,614173233509064
+Image quality mean value: 0,700552371010852
+Head movement maximum value: 8,54400374531753
+Head movement mean value: 4,34667796739614
+Head size ratio maximum value: 0,157124490087459
+Head size ratio mean value: 0,0618717968703174
+Error: no error

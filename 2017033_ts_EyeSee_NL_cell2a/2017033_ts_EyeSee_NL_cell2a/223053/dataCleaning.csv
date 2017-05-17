@@ -1,0 +1,11 @@
+Stimulus;;Usable;;Enough_Points;Good_InRatio;Good_Deviation;Good_Dev_Median;Good_Halves;;Points_No;InRatio;Dev_X;Dev_Y;Dev_X_Med;Dev_Y_Med;leftHalf;rightHalf;upHalf;downHalf;;duration
+filler-1_NL;;1;;1;1;1;1;1;;46;1,00;351,12;116,06;362,28;116,51;0,72;0,28;0,59;0,41;;9
+filler-1_NL_corrected;;1;;1;1;1;1;1;;46;0,80;1659,91;1877,92;1685,46;1919,30;0,46;0,54;0,89;0,11;;9
+new_ver5;;1;;1;1;1;1;1;;10;1,00;159,24;75,56;165,50;81,45;0,50;0,50;0,30;0,70;;2
+new_ver5_corrected;;0;;1;0;1;1;1;;10;0,40;1083,88;171,40;1098,07;177,86;0,30;0,70;0,70;0,30;;2
+cell2_novi_bruine_prednja_strana_fin;;1;;1;1;1;1;1;;37;1,00;116,68;123,50;116,97;124,24;0,41;0,59;0,32;0,68;;7
+cell2_novi_bruine_prednja_strana_fin_corrected;;0;;1;0;1;1;1;;37;0,43;3728,75;1016,53;3761,01;1026,98;0,32;0,68;0,81;0,19;;7
+cell2_novi_bruine_zadnja_strana_fin;;0;;1;0;1;1;1;;41;0,63;326,83;220,59;346,86;227,63;0,80;0,20;0,37;0,63;;7
+cell2_novi_bruine_zadnja_strana_fin_corrected;;0;;1;0;1;1;1;;41;0,34;2142,83;457,53;2173,48;462,10;0,56;0,44;0,66;0,34;;7
+cell2_novi_blonde_prednja_strana_fin;;0;;1;1;0;0;1;;39;1,00;46,10;109,89;46,18;109,93;0,51;0,49;0,23;0,77;;7
+cell2_novi_blonde_prednja_strana_fin_corrected;;0;;1;0;1;1;1;;39;0,38;5699,09;930,48;5775,18;941,17;0,44;0,56;0,69;0,31;;7

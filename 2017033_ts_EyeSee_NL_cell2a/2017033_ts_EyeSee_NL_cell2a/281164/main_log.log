@@ -1,0 +1,110 @@
+
+CALIBRATION: calibration_main
+Start time: 16.05.2017 22-38-24
+End time: 16.05.2017 22-38-31
+Image quality on start: 0,771653532981873
+Image quality minimum value: 1000
+Image quality mean value: 0
+Head movement maximum value: 0
+Head movement mean value: 0
+Head size ratio maximum value: 0
+Head size ratio mean value: 0
+Calibration reprojection error mean value: 999999
+Calibration reprojection error outliers count: 999999
+Error: 
+Initialisatiefout!
+Gelieve ons te contacteren via support@eyesee.be met vermelding van deze fout.
+
+CALIBRATION: calibration_main
+Start time: 16.05.2017 22-39-11
+End time: 16.05.2017 22-39-14
+Image quality on start: 0,818897664546967
+Image quality minimum value: 1000
+Image quality mean value: 0
+Head movement maximum value: 0
+Head movement mean value: 0
+Head size ratio maximum value: 0
+Head size ratio mean value: 0
+Calibration reprojection error mean value: 999999
+Calibration reprojection error outliers count: 999999
+Error: 
+Initialisatiefout!
+Gelieve ons te contacteren via support@eyesee.be met vermelding van deze fout.
+
+CALIBRATION: calibration_main
+Start time: 16.05.2017 22-39-26
+End time: 16.05.2017 22-39-31
+Image quality on start: 0,842519700527191
+Image quality minimum value: 1000
+Image quality mean value: 0
+Head movement maximum value: 0
+Head movement mean value: 0
+Head size ratio maximum value: 0
+Head size ratio mean value: 0
+Calibration reprojection error mean value: 999999
+Calibration reprojection error outliers count: 999999
+Error: 
+Initialisatiefout!
+Gelieve ons te contacteren via support@eyesee.be met vermelding van deze fout.
+
+CALIBRATION: calibration_main
+Start time: 16.05.2017 22-41-48
+End time: 16.05.2017 22-42-20
+Image quality on start: 0,87345677614212
+Image quality minimum value: 0
+Image quality mean value: 0,483810552677443
+Head movement maximum value: 7,07106781186548
+Head movement mean value: 5,02679878921768
+Head size ratio maximum value: 0,16936388399295
+Head size ratio mean value: 0,205365493752864
+Calibration reprojection error mean value: 126,976329040527
+Calibration reprojection error outliers count: 0
+Error: no error
+
+TEST CALIBRATION: testcalibration_main
+Start time: 16.05.2017 22-42-22
+End time: 16.05.2017 22-42-38
+Image quality minimum value: 0
+Image quality mean value: 0,168894364692197
+Head movement maximum value: 20,6155281280883
+Head movement mean value: 9,80491745513453
+Head size ratio maximum value: 0,161655005430042
+Head size ratio mean value: 0,543912122345066
+Calibration maximum distance: 541,687179098786
+Calibration corrected maximum distance: 299,040131086114
+Calibration without correction was successful: False
+Calibration with correction was successful: True
+Error: no error
+
+CLICKTASK: 2017033_ts_EyeSee_cell1b_task1
+Start time: 16.05.2017 22-42-41
+End time: 16.05.2017 22-43-02
+Image quality minimum value: 0
+Image quality mean value: 0,541483674730573
+Head movement maximum value: 31,0161248385416
+Head movement mean value: 23,8145553886507
+Head size ratio maximum value: 0,112713418433656
+Head size ratio mean value: 0,119125473662674
+Error: no error
+
+CLICKTASK: 2017033_ts_EyeSee_cell1b_task2
+Start time: 16.05.2017 22-43-07
+End time: 16.05.2017 22-43-12
+Image quality minimum value: 0
+Image quality mean value: 0,662823413099561
+Head movement maximum value: 25,9615099714943
+Head movement mean value: 22,6693568857267
+Head size ratio maximum value: 0,122576510174652
+Head size ratio mean value: 0,156687852730154
+Error: no error
+
+WATCHTASK: 2017033_ts_EyeSee_cell1b_task_3
+Start time: 16.05.2017 22-43-14
+End time: 16.05.2017 22-43-36
+Image quality minimum value: 0
+Image quality mean value: 0,770188281410619
+Head movement maximum value: 31,3209195267317
+Head movement mean value: 24,8469127276513
+Head size ratio maximum value: 0,130463422884509
+Head size ratio mean value: 0,128941833299266
+Error: no error

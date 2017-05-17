@@ -1,0 +1,62 @@
+
+CALIBRATION: calibration_main
+Start time: 16.05.2017 20-29-51
+End time: 16.05.2017 20-30-29
+Image quality on start: 0,416666656732559
+Image quality minimum value: 0,381944566965103
+Image quality mean value: 0,438888882100582
+Head movement maximum value: 7,07106781186548
+Head movement mean value: 4,49504309160993
+Head size ratio maximum value: 0,0551194012576676
+Head size ratio mean value: 0,0519919900852594
+Calibration reprojection error mean value: 89,8360313839383
+Calibration reprojection error outliers count: 0
+Error: no error
+
+TEST CALIBRATION: testcalibration_main
+Start time: 16.05.2017 20-30-33
+End time: 16.05.2017 20-30-50
+Image quality minimum value: 0,388888895511627
+Image quality mean value: 0,444173875180158
+Head movement maximum value: 8
+Head movement mean value: 5,30288623825708
+Head size ratio maximum value: 0,0308147833802708
+Head size ratio mean value: 0,115778612036473
+Calibration maximum distance: 441,13149966875
+Calibration corrected maximum distance: 227,431308310883
+Calibration without correction was successful: False
+Calibration with correction was successful: True
+Error: no error
+
+CLICKTASK: 2017033_ts_EyeSee_cell1b_task1
+Start time: 16.05.2017 20-30-52
+End time: 16.05.2017 20-31-07
+Image quality minimum value: 0,375000029802322
+Image quality mean value: 0,427259896266258
+Head movement maximum value: 8,94427190999916
+Head movement mean value: 6,45922510269228
+Head size ratio maximum value: 0,0439508506616257
+Head size ratio mean value: 0,143460998509814
+Error: no error
+
+CLICKTASK: 2017033_ts_EyeSee_cell1b_task2
+Start time: 16.05.2017 20-31-13
+End time: 16.05.2017 20-31-16
+Image quality minimum value: 0,402777761220932
+Image quality mean value: 0,423611109906977
+Head movement maximum value: 9,21954445729289
+Head movement mean value: 1,67628081041689
+Head size ratio maximum value: 0,0249990355310366
+Head size ratio mean value: 0,822727097369279
+Error: no error
+
+WATCHTASK: 2017033_ts_EyeSee_cell1b_task_3
+Start time: 16.05.2017 20-31-20
+End time: 16.05.2017 20-31-42
+Image quality minimum value: 0,291666775941849
+Image quality mean value: 0,389589165188685
+Head movement maximum value: 47,8539444560216
+Head movement mean value: 27,3674515506425
+Head size ratio maximum value: 0,101847922533853
+Head size ratio mean value: 0,103787558771821
+Error: no error
